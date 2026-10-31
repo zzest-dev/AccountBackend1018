@@ -1,0 +1,136 @@
+{
+  "v": 2,
+  "carName": "Gaz24",
+  "engine": "Engine_500",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_26",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#000000FF",
+          "metallic": 0.77,
+          "gloss": 0.78
+        }
+      ],
+      "rad": 32.0,
+      "width": 31.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_26",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#000000FF",
+          "metallic": 0.77,
+          "gloss": 0.78
+        }
+      ],
+      "rad": 32.0,
+      "width": 33.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "mid#w",
+      "color": "#8D8D8D0D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back",
+      "color": "#14141463",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#4E4E4E0D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#b",
+      "color": "#2570A2FF",
+      "metallic": 0.79,
+      "gloss": 0.81
+    },
+    {
+      "name": "doors#b",
+      "color": "#2570A2FF",
+      "metallic": 0.79,
+      "gloss": 0.81
+    },
+    {
+      "name": "trunk",
+      "color": "#2570A2FF",
+      "metallic": 0.79,
+      "gloss": 0.81
+    },
+    {
+      "name": "hood",
+      "color": "#2570A2FF",
+      "metallic": 0.79,
+      "gloss": 0.81
+    },
+    {
+      "name": "body",
+      "color": "#2570A2FF",
+      "metallic": 0.79,
+      "gloss": 0.81
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "front up",
+      "color": "#222222AB",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": ""
+  },
+  "WD": "BWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    }
+  ]
+}

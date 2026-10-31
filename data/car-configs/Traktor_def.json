@@ -1,0 +1,58 @@
+{
+  "v": 2,
+  "carName": "Traktor",
+  "engine": "Engine_80_Tractor",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_36",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 48.0,
+      "width": 30.0,
+      "tire": "Tire_22",
+      "tireSize": 11.4809809,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_37",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 90.0,
+      "width": 47.0,
+      "tire": "Tire_23",
+      "tireSize": 11.4809809,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "BWD",
+  "upgrades": []
+}

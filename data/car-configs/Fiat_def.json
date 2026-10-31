@@ -1,0 +1,161 @@
+{
+  "v": 2,
+  "carName": "Fiat",
+  "engine": "Engine_70",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_25",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#414141FF",
+          "metallic": 0.79,
+          "gloss": 0.76
+        },
+        {
+          "name": "ray 2",
+          "color": "#636363FF",
+          "metallic": 0.77,
+          "gloss": 0.74
+        }
+      ],
+      "rad": 28.0,
+      "width": 28.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_25",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#414141FF",
+          "metallic": 0.79,
+          "gloss": 0.76
+        },
+        {
+          "name": "ray 2",
+          "color": "#636363FF",
+          "metallic": 0.77,
+          "gloss": 0.74
+        }
+      ],
+      "rad": 28.0,
+      "width": 28.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#b",
+      "color": "#723E49FF",
+      "metallic": 0.75,
+      "gloss": 0.92
+    },
+    {
+      "name": "front#b",
+      "color": "#723E49FF",
+      "metallic": 0.75,
+      "gloss": 0.92
+    },
+    {
+      "name": "doors#b",
+      "color": "#723E49FF",
+      "metallic": 0.75,
+      "gloss": 0.92
+    },
+    {
+      "name": "hood",
+      "color": "#723E49FF",
+      "metallic": 0.75,
+      "gloss": 0.92
+    },
+    {
+      "name": "trunk",
+      "color": "#723E49FF",
+      "metallic": 0.75,
+      "gloss": 0.92
+    },
+    {
+      "name": "body",
+      "color": "#723E49FF",
+      "metallic": 0.75,
+      "gloss": 0.92
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "mid",
+      "color": "#E1E1E10F",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back#w",
+      "color": "#00000080",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#E1E1E10F",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000D4",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#l",
+      "color": "#F0F0F00D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back#l",
+      "color": "#F0F0F00D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": ""
+  },
+  "WD": "FWD",
+  "upgrades": []
+}

@@ -1,0 +1,178 @@
+{
+  "v": 2,
+  "carName": "MercedesSW222",
+  "engine": "Engine_330",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_21",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "center",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 33.0,
+      "width": 31.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_21",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "center",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 33.0,
+      "width": 37.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "body",
+      "color": "#0D200AFF",
+      "metallic": 0.63,
+      "gloss": 0.92
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back#b",
+      "color": "#0D200AFF",
+      "metallic": 0.63,
+      "gloss": 0.92
+    },
+    {
+      "name": "front#b",
+      "color": "#0D200AFF",
+      "metallic": 0.63,
+      "gloss": 0.92
+    },
+    {
+      "name": "doors",
+      "color": "#0D200AFF",
+      "metallic": 0.63,
+      "gloss": 0.92
+    },
+    {
+      "name": "trunk",
+      "color": "#0D200AFF",
+      "metallic": 0.63,
+      "gloss": 0.92
+    },
+    {
+      "name": "hood",
+      "color": "#0D200AFF",
+      "metallic": 0.63,
+      "gloss": 0.92
+    },
+    {
+      "name": "mid",
+      "color": "#DBDBDB1C",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back",
+      "color": "#2B2B2BD4",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#DBDBDB1C",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000FF",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#l",
+      "color": "#DBDBDB1C",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back#l",
+      "color": "#DBDBDB1C",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": ""
+  },
+  "WD": "BWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    }
+  ]
+}

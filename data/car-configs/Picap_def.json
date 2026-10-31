@@ -1,0 +1,137 @@
+{
+  "v": 2,
+  "carName": "Picap",
+  "engine": "Engine_200",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_4",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 40.0,
+      "width": 40.0,
+      "tire": "Tire_3",
+      "tireSize": 13.3,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_4",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 40.0,
+      "width": 40.0,
+      "tire": "Tire_3",
+      "tireSize": 13.3,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "doors",
+      "color": "#FFFFFFFF",
+      "metallic": 0.67,
+      "gloss": 0.92
+    },
+    {
+      "name": "trunk",
+      "color": "#FFFFFFFF",
+      "metallic": 0.67,
+      "gloss": 0.92
+    },
+    {
+      "name": "hood",
+      "color": "#FFFFFFFF",
+      "metallic": 0.67,
+      "gloss": 0.92
+    },
+    {
+      "name": "body",
+      "color": "#FFFFFFFF",
+      "metallic": 0.67,
+      "gloss": 0.92
+    },
+    {
+      "name": "mid",
+      "color": "#FFFFFF05",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back",
+      "color": "#00000038",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#FFFFFF05",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000FF",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "AWD",
+  "upgrades": []
+}

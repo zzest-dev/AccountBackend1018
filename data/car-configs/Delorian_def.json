@@ -1,0 +1,149 @@
+{
+  "v": 2,
+  "carName": "Delorian",
+  "engine": "Engine_200",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_7",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.74,
+          "gloss": 0.82
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.74,
+          "gloss": 0.82
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.74,
+          "gloss": 0.82
+        }
+      ],
+      "rad": 30.0,
+      "width": 32.0,
+      "tire": "Tire_14",
+      "tireSize": 7.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_7",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.74,
+          "gloss": 0.82
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.74,
+          "gloss": 0.82
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.74,
+          "gloss": 0.82
+        }
+      ],
+      "rad": 30.0,
+      "width": 35.0,
+      "tire": "Tire_14",
+      "tireSize": 7.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back#b",
+      "color": "#D6D6D6FF",
+      "metallic": 0.97,
+      "gloss": 0.91
+    },
+    {
+      "name": "front#b",
+      "color": "#D6D6D6FF",
+      "metallic": 0.97,
+      "gloss": 0.91
+    },
+    {
+      "name": "body",
+      "color": "#D6D6D6FF",
+      "metallic": 0.97,
+      "gloss": 0.91
+    },
+    {
+      "name": "front up",
+      "color": "#ABABAB05",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "doors",
+      "color": "#D6D6D6FF",
+      "metallic": 0.97,
+      "gloss": 0.91
+    },
+    {
+      "name": "trunk",
+      "color": "#D6D6D6FF",
+      "metallic": 0.97,
+      "gloss": 0.91
+    },
+    {
+      "name": "hood",
+      "color": "#D6D6D6FF",
+      "metallic": 0.97,
+      "gloss": 0.91
+    },
+    {
+      "name": "mid",
+      "color": "#ABABAB05",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back",
+      "color": "#ABABAB05",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#ABABAB05",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "AWD",
+  "upgrades": []
+}

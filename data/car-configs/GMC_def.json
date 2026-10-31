@@ -1,0 +1,162 @@
+{
+  "v": 2,
+  "carName": "GMC",
+  "engine": "Engine_120",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_1",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#262626FF",
+          "metallic": 0.78,
+          "gloss": 0.86
+        },
+        {
+          "name": "ray",
+          "color": "#262626FF",
+          "metallic": 0.78,
+          "gloss": 0.86
+        },
+        {
+          "name": "support",
+          "color": "#FF2727FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 32.0,
+      "width": 29.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_1",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#262626FF",
+          "metallic": 0.78,
+          "gloss": 0.86
+        },
+        {
+          "name": "ray",
+          "color": "#262626FF",
+          "metallic": 0.78,
+          "gloss": 0.86
+        },
+        {
+          "name": "support",
+          "color": "#FF2727FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 32.0,
+      "width": 29.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back#b",
+      "color": "#232323FF",
+      "metallic": 0.78,
+      "gloss": 0.85
+    },
+    {
+      "name": "body",
+      "color": "#232323FF",
+      "metallic": 0.78,
+      "gloss": 0.85
+    },
+    {
+      "name": "back",
+      "color": "#000000B5",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#8C8C8C05",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#8C8C8C05",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000CC",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "hood",
+      "color": "#232323FF",
+      "metallic": 0.78,
+      "gloss": 0.85
+    },
+    {
+      "name": "front#b",
+      "color": "#232323FF",
+      "metallic": 0.78,
+      "gloss": 0.85
+    },
+    {
+      "name": "trunk",
+      "color": "#232323FF",
+      "metallic": 0.78,
+      "gloss": 0.85
+    },
+    {
+      "name": "doors#b",
+      "color": "#232323FF",
+      "metallic": 0.78,
+      "gloss": 0.85
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "BWD",
+  "upgrades": [
+    {
+      "key": "Kengurins",
+      "use": "No"
+    },
+    {
+      "key": "Karkas",
+      "use": "No"
+    },
+    {
+      "key": "Side skirt",
+      "use": "No"
+    }
+  ]
+}

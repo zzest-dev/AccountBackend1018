@@ -1,0 +1,608 @@
+{
+  "pricing": "desktop_9.4_with_explicit_unmatched_test_prices",
+  "items": [
+    {
+      "str_id": "240SX",
+      "item_id": 1000,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 500,
+      "config": "car-configs/240SX_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Ambulance",
+      "item_id": 1001,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 100000,
+      "config": "car-configs/Ambulance_def.json"
+    },
+    {
+      "str_id": "Avalanche",
+      "item_id": 1002,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 70,
+      "config": "car-configs/Avalanche_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "BMW_M4",
+      "item_id": 1003,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 650000,
+      "config": "car-configs/BMW_M4_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "BMW_X5",
+      "item_id": 1004,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 350000,
+      "config": "car-configs/BMW_X5_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Buggy",
+      "item_id": 1005,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 500,
+      "config": "car-configs/Buggy_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "C300",
+      "item_id": 1006,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 550000,
+      "config": "car-configs/C300_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Camaro",
+      "item_id": 1007,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 600,
+      "config": "car-configs/Camaro_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "CayenTU",
+      "item_id": 1008,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 100000,
+      "config": "car-configs/CayenTU_def.json"
+    },
+    {
+      "str_id": "Delorian",
+      "item_id": 1009,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 500,
+      "config": "car-configs/Delorian_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Escalade",
+      "item_id": 1010,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 75000,
+      "config": "car-configs/Escalade_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "F550",
+      "item_id": 1011,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 350,
+      "config": "car-configs/F550_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Fiat",
+      "item_id": 1012,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 100000,
+      "config": "car-configs/Fiat_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Focus",
+      "item_id": 1013,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 90000,
+      "config": "car-configs/Focus_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Ford",
+      "item_id": 1014,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 300000,
+      "config": "car-configs/Ford_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "ForkLift",
+      "item_id": 1015,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 350000,
+      "config": "car-configs/ForkLift_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Gaz21",
+      "item_id": 1016,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 650000,
+      "config": "car-configs/Gaz21_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Gaz24",
+      "item_id": 1017,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 650000,
+      "config": "car-configs/Gaz24_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Gaz24_Original",
+      "item_id": 1018,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 650000,
+      "config": "car-configs/Gaz24_Original_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Gazel_3302",
+      "item_id": 1019,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 600000,
+      "config": "car-configs/Gazel_3302_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Gazel_Avtovoz_3302",
+      "item_id": 1020,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 600000,
+      "config": "car-configs/Gazel_Avtovoz_3302_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "GMC",
+      "item_id": 1021,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 400000,
+      "config": "car-configs/GMC_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Golf",
+      "item_id": 1022,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 30,
+      "config": "car-configs/Golf_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "H2",
+      "item_id": 1023,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 900,
+      "config": "car-configs/H2_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Impreza",
+      "item_id": 1024,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 550,
+      "config": "car-configs/Impreza_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Jeep_Wran",
+      "item_id": 1025,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 190000,
+      "config": "car-configs/Jeep_Wran_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Kamaz_5320",
+      "item_id": 1026,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 200000,
+      "config": "car-configs/Kamaz_5320_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Kamaz_5320_FIreCar",
+      "item_id": 1027,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 100000,
+      "config": "car-configs/Kamaz_5320_FIreCar_def.json"
+    },
+    {
+      "str_id": "Lada_Priora",
+      "item_id": 1028,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 300000,
+      "config": "car-configs/Lada_Priora_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Lada_Vesta",
+      "item_id": 1029,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 80000,
+      "config": "car-configs/Lada_Vesta_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Lambo_Reventon",
+      "item_id": 1030,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 2000,
+      "config": "car-configs/Lambo_Reventon_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Lambo_Urus",
+      "item_id": 1031,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 100000,
+      "config": "car-configs/Lambo_Urus_def.json"
+    },
+    {
+      "str_id": "LandCruiser",
+      "item_id": 1032,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 400000,
+      "config": "car-configs/LandCruiser_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Lexi",
+      "item_id": 1033,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 100000,
+      "config": "car-configs/Lexi_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "LexusGS350",
+      "item_id": 1034,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 250000,
+      "config": "car-configs/LexusGS350_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Mazda",
+      "item_id": 1035,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 200,
+      "config": "car-configs/Mazda_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Mercedes_600",
+      "item_id": 1036,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 450000,
+      "config": "car-configs/Mercedes_600_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Mercedes_Spinneer",
+      "item_id": 1037,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 100000,
+      "config": "car-configs/Mercedes_Spinneer_def.json"
+    },
+    {
+      "str_id": "MercedesGG",
+      "item_id": 1038,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 1500000,
+      "config": "car-configs/MercedesGG_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "MercedesSLS2011",
+      "item_id": 1039,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 900000,
+      "config": "car-configs/MercedesSLS2011_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "MercedesSW222",
+      "item_id": 1040,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 100000,
+      "config": "car-configs/MercedesSW222_def.json"
+    },
+    {
+      "str_id": "MiniCooper2009",
+      "item_id": 1041,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 140000,
+      "config": "car-configs/MiniCooper2009_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Muscle_Ford_Mustang",
+      "item_id": 1042,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 600,
+      "config": "car-configs/Muscle_Ford_Mustang_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Niva",
+      "item_id": 1043,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 120000,
+      "config": "car-configs/Niva_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Panamera",
+      "item_id": 1044,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 1500,
+      "config": "car-configs/Panamera_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Picap",
+      "item_id": 1045,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 300000,
+      "config": "car-configs/Picap_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Q7",
+      "item_id": 1046,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 70,
+      "config": "car-configs/Q7_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "R8",
+      "item_id": 1047,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 700000,
+      "config": "car-configs/R8_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Rover",
+      "item_id": 1048,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 300,
+      "config": "car-configs/Rover_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "RoverLite",
+      "item_id": 1049,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 890000,
+      "config": "car-configs/RoverLite_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Skyline",
+      "item_id": 1050,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 800,
+      "config": "car-configs/Skyline_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Supra_2020",
+      "item_id": 1051,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 100000,
+      "config": "car-configs/Supra_2020_def.json"
+    },
+    {
+      "str_id": "Supra",
+      "item_id": 1052,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 600000,
+      "config": "car-configs/Supra_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Tahoe",
+      "item_id": 1053,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 250,
+      "config": "car-configs/Tahoe_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Tesla_Cybertruck",
+      "item_id": 1054,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 100000,
+      "config": "car-configs/Tesla_Cybertruck_def.json"
+    },
+    {
+      "str_id": "Tesla_X",
+      "item_id": 1055,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 100000,
+      "config": "car-configs/Tesla_X_def.json"
+    },
+    {
+      "str_id": "Traktor",
+      "item_id": 1056,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 200000,
+      "config": "car-configs/Traktor_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "TruckMedium",
+      "item_id": 1057,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 350000,
+      "config": "car-configs/TruckMedium_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "TruckTow",
+      "item_id": 1058,
+      "group": "Cars",
+      "currency": "diamonds",
+      "price": 149,
+      "config": "car-configs/TruckTow_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "UAZ_452",
+      "item_id": 1059,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 350000,
+      "config": "car-configs/UAZ_452_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "UAZ",
+      "item_id": 1060,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 400000,
+      "config": "car-configs/UAZ_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Vaz2104",
+      "item_id": 1061,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 45000,
+      "config": "car-configs/Vaz2104_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Vaz2105",
+      "item_id": 1062,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 80000,
+      "config": "car-configs/Vaz2105_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Vaz2106",
+      "item_id": 1063,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 50000,
+      "config": "car-configs/Vaz2106_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Vaz2108",
+      "item_id": 1064,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 175000,
+      "config": "car-configs/Vaz2108_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Vaz21099",
+      "item_id": 1065,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 40000,
+      "config": "car-configs/Vaz21099_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Vaz2112",
+      "item_id": 1066,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 200000,
+      "config": "car-configs/Vaz2112_def.json",
+      "pricing_source": "desktop_9.4"
+    },
+    {
+      "str_id": "Zil_130",
+      "item_id": 1067,
+      "group": "Cars",
+      "currency": "coins",
+      "price": 200000,
+      "config": "car-configs/Zil_130_def.json",
+      "pricing_source": "desktop_9.4"
+    }
+  ]
+}

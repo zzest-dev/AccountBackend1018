@@ -1,0 +1,172 @@
+{
+  "v": 2,
+  "carName": "MiniCooper2009",
+  "engine": "Engine_200",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_4",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FF0000FF",
+          "metallic": 0.68,
+          "gloss": 0.66
+        },
+        {
+          "name": "ray",
+          "color": "#000000FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 28.0,
+      "width": 26.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_4",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FF0000FF",
+          "metallic": 0.68,
+          "gloss": 0.66
+        },
+        {
+          "name": "ray",
+          "color": "#000000FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 28.0,
+      "width": 34.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "body",
+      "color": "#C10000FF",
+      "metallic": 0.82,
+      "gloss": 0.55
+    },
+    {
+      "name": "back#b",
+      "color": "#C10000FF",
+      "metallic": 0.82,
+      "gloss": 0.55
+    },
+    {
+      "name": "front#b",
+      "color": "#C10000FF",
+      "metallic": 0.82,
+      "gloss": 0.55
+    },
+    {
+      "name": "trunk",
+      "color": "#C10000FF",
+      "metallic": 0.82,
+      "gloss": 0.55
+    },
+    {
+      "name": "hood",
+      "color": "#C10000FF",
+      "metallic": 0.82,
+      "gloss": 0.55
+    },
+    {
+      "name": "mid",
+      "color": "#2C2C2CAD",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back",
+      "color": "#262626F2",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#3333338A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "up plastic",
+      "color": "#1C1C1CFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "chrome",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "down plastic",
+      "color": "#1C1C1CFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "roof",
+      "color": "#000000FF",
+      "metallic": 0.19,
+      "gloss": 0.54
+    },
+    {
+      "name": "doors#b",
+      "color": "#C10000FF",
+      "metallic": 0.82,
+      "gloss": 0.55
+    },
+    {
+      "name": "front up",
+      "color": "#000000FF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": ""
+  },
+  "WD": "FWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    }
+  ]
+}

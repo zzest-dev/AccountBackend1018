@@ -1,0 +1,131 @@
+{
+  "v": 2,
+  "carName": "Kamaz_5320",
+  "engine": "Engine_80_Tractor",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_12",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 50.0,
+      "width": 32.0,
+      "tire": "Tire_12",
+      "tireSize": 12.8,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_13",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 50.0,
+      "width": 64.0,
+      "tire": "Tire_13",
+      "tireSize": 12.5,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "body",
+      "color": "#1D3318FF",
+      "metallic": 0.61,
+      "gloss": 0.85
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "doors",
+      "color": "#1D3318FF",
+      "metallic": 0.61,
+      "gloss": 0.85
+    },
+    {
+      "name": "hood",
+      "color": "#1D3318FF",
+      "metallic": 0.61,
+      "gloss": 0.85
+    },
+    {
+      "name": "mid",
+      "color": "#73737312",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back",
+      "color": "#73737312",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#82828212",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#73737305",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": ""
+  },
+  "WD": "AWD",
+  "upgrades": []
+}

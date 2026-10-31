@@ -1,0 +1,138 @@
+{
+  "v": 2,
+  "carName": "Vaz2106",
+  "engine": "Engine_70",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_1",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 28.0,
+      "width": 30.0,
+      "tire": "Tire_3",
+      "tireSize": 13.3,
+      "susp_height": 14.0,
+      "susp_stiff": 0.075,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_1",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 28.0,
+      "width": 30.0,
+      "tire": "Tire_3",
+      "tireSize": 13.3,
+      "susp_height": 14.0,
+      "susp_stiff": 0.075,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "doors",
+      "color": "#2B4B11FF",
+      "metallic": 0.57,
+      "gloss": 0.57
+    },
+    {
+      "name": "trunk",
+      "color": "#2B4B11FF",
+      "metallic": 0.57,
+      "gloss": 0.57
+    },
+    {
+      "name": "hood",
+      "color": "#2B4B11FF",
+      "metallic": 0.57,
+      "gloss": 0.57
+    },
+    {
+      "name": "body",
+      "color": "#2B4B11FF",
+      "metallic": 0.57,
+      "gloss": 0.57
+    },
+    {
+      "name": "back",
+      "color": "#DBDBDB0A",
+      "metallic": 0.95,
+      "gloss": 0.86
+    },
+    {
+      "name": "mid",
+      "color": "#DBDBDB0A",
+      "metallic": 0.95,
+      "gloss": 0.86
+    },
+    {
+      "name": "front",
+      "color": "#DBDBDB0A",
+      "metallic": 0.95,
+      "gloss": 0.86
+    },
+    {
+      "name": "front up",
+      "color": "#000000FF",
+      "metallic": 0.91,
+      "gloss": 0.58
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "BWD",
+  "upgrades": [
+    {
+      "key": "Vaz2106_Hood_Back",
+      "use": "No"
+    },
+    {
+      "key": "Spoiler",
+      "use": "No"
+    },
+    {
+      "key": "Roof_details",
+      "use": "1"
+    }
+  ]
+}

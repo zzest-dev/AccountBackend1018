@@ -1,0 +1,148 @@
+{
+  "v": 2,
+  "carName": "Lada_Vesta",
+  "engine": "Engine_120",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_1",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 32.0,
+      "width": 31.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_1",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 32.0,
+      "width": 33.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back#b",
+      "color": "#FF6800FF",
+      "metallic": 0.73,
+      "gloss": 0.9
+    },
+    {
+      "name": "front#b",
+      "color": "#FF6800FF",
+      "metallic": 0.73,
+      "gloss": 0.9
+    },
+    {
+      "name": "doors",
+      "color": "#FF6800FF",
+      "metallic": 0.73,
+      "gloss": 0.9
+    },
+    {
+      "name": "trunk",
+      "color": "#FF6800FF",
+      "metallic": 0.73,
+      "gloss": 0.9
+    },
+    {
+      "name": "hood",
+      "color": "#FF6800FF",
+      "metallic": 0.73,
+      "gloss": 0.9
+    },
+    {
+      "name": "body",
+      "color": "#FF6800FF",
+      "metallic": 0.73,
+      "gloss": 0.9
+    },
+    {
+      "name": "back",
+      "color": "#3333338C",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#7D7D7D08",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#7D7D7D08",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000B0",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#l",
+      "color": "#7D7D7D08",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "FWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    }
+  ]
+}

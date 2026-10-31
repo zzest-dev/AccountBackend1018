@@ -1,0 +1,161 @@
+{
+  "v": 2,
+  "carName": "Tahoe",
+  "engine": "Engine_300",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_27",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#2C2C2CFF",
+          "metallic": 1.0,
+          "gloss": 0.91
+        },
+        {
+          "name": "ray",
+          "color": "#353535FF",
+          "metallic": 1.0,
+          "gloss": 0.91
+        },
+        {
+          "name": "ray 2",
+          "color": "#DADADAFF",
+          "metallic": 1.0,
+          "gloss": 0.91
+        }
+      ],
+      "rad": 38.0,
+      "width": 40.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_27",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#2C2C2CFF",
+          "metallic": 1.0,
+          "gloss": 0.91
+        },
+        {
+          "name": "ray",
+          "color": "#353535FF",
+          "metallic": 1.0,
+          "gloss": 0.91
+        },
+        {
+          "name": "ray 2",
+          "color": "#DADADAFF",
+          "metallic": 1.0,
+          "gloss": 0.91
+        }
+      ],
+      "rad": 38.0,
+      "width": 40.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#b",
+      "color": "#1E1E1EFF",
+      "metallic": 1.0,
+      "gloss": 0.79
+    },
+    {
+      "name": "front#b",
+      "color": "#1E1E1EFF",
+      "metallic": 1.0,
+      "gloss": 0.79
+    },
+    {
+      "name": "doors",
+      "color": "#1E1E1EFF",
+      "metallic": 1.0,
+      "gloss": 0.79
+    },
+    {
+      "name": "body",
+      "color": "#1E1E1EFF",
+      "metallic": 1.0,
+      "gloss": 0.79
+    },
+    {
+      "name": "trunk",
+      "color": "#1E1E1EFF",
+      "metallic": 1.0,
+      "gloss": 0.79
+    },
+    {
+      "name": "hood",
+      "color": "#1E1E1EFF",
+      "metallic": 1.0,
+      "gloss": 0.79
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back",
+      "color": "#8470700D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#5D58580D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#l",
+      "color": "#8470700D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back#l",
+      "color": "#8470700D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#40404003",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000FF",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "AWD",
+  "upgrades": []
+}

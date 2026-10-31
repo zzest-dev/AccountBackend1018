@@ -1,0 +1,136 @@
+{
+  "v": 2,
+  "carName": "Vaz2108",
+  "engine": "Engine_70",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_1",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 26.0,
+      "width": 30.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 13.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_1",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 26.0,
+      "width": 30.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 13.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "doors",
+      "color": "#9A966FFF",
+      "metallic": 0.63,
+      "gloss": 0.94
+    },
+    {
+      "name": "trunk",
+      "color": "#9A966FFF",
+      "metallic": 0.63,
+      "gloss": 0.94
+    },
+    {
+      "name": "hood",
+      "color": "#9A966FFF",
+      "metallic": 0.63,
+      "gloss": 0.94
+    },
+    {
+      "name": "body",
+      "color": "#9A966FFF",
+      "metallic": 0.63,
+      "gloss": 0.94
+    },
+    {
+      "name": "plastic window",
+      "color": "#000000FF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "mid",
+      "color": "#B1B1B105",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back",
+      "color": "#000000AB",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#B1B1B105",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000B2",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "FWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    }
+  ]
+}

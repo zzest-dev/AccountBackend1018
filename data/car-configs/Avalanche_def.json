@@ -1,0 +1,172 @@
+{
+  "v": 2,
+  "carName": "Avalanche",
+  "engine": "Engine_200",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_27",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.77,
+          "gloss": 0.65
+        },
+        {
+          "name": "ray",
+          "color": "#414141FF",
+          "metallic": 0.67,
+          "gloss": 0.83
+        },
+        {
+          "name": "ray 2",
+          "color": "#2A2A2AFF",
+          "metallic": 0.75,
+          "gloss": 0.88
+        }
+      ],
+      "rad": 40.0,
+      "width": 40.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_27",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.77,
+          "gloss": 0.65
+        },
+        {
+          "name": "ray",
+          "color": "#414141FF",
+          "metallic": 0.67,
+          "gloss": 0.83
+        },
+        {
+          "name": "ray 2",
+          "color": "#2A2A2AFF",
+          "metallic": 0.75,
+          "gloss": 0.88
+        }
+      ],
+      "rad": 40.0,
+      "width": 40.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back#b",
+      "color": "#332652FF",
+      "metallic": 0.73,
+      "gloss": 0.91
+    },
+    {
+      "name": "front#b",
+      "color": "#332652FF",
+      "metallic": 0.73,
+      "gloss": 0.91
+    },
+    {
+      "name": "doors",
+      "color": "#332652FF",
+      "metallic": 0.73,
+      "gloss": 0.91
+    },
+    {
+      "name": "trunk",
+      "color": "#332652FF",
+      "metallic": 0.73,
+      "gloss": 0.91
+    },
+    {
+      "name": "hood",
+      "color": "#332652FF",
+      "metallic": 0.73,
+      "gloss": 0.91
+    },
+    {
+      "name": "body",
+      "color": "#332652FF",
+      "metallic": 0.73,
+      "gloss": 0.91
+    },
+    {
+      "name": "back#w",
+      "color": "#00000059",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid#w",
+      "color": "#A7A7A70A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#A7A7A70A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000DB",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "plastic window ",
+      "color": "#000000FF",
+      "metallic": 0.44,
+      "gloss": 0.58
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "AWD",
+  "upgrades": [
+    {
+      "key": "Roof_rack_pod",
+      "use": "No"
+    },
+    {
+      "key": "Roof_rack_post",
+      "use": "No"
+    },
+    {
+      "key": "Kengurins",
+      "use": "None"
+    },
+    {
+      "key": "Side skirt",
+      "use": "None"
+    }
+  ]
+}

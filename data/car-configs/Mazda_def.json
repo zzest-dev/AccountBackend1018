@@ -1,0 +1,149 @@
+{
+  "v": 2,
+  "carName": "Mazda",
+  "engine": "Engine_120",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_1",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#373737FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "support",
+          "color": "#F4F4F4FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 32.0,
+      "width": 29.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_1",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#373737FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "support",
+          "color": "#F4F4F4FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 32.0,
+      "width": 29.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back#b",
+      "color": "#26261DFF",
+      "metallic": 0.78,
+      "gloss": 0.86
+    },
+    {
+      "name": "front#b",
+      "color": "#26261DFF",
+      "metallic": 0.78,
+      "gloss": 0.86
+    },
+    {
+      "name": "doors",
+      "color": "#26261DFF",
+      "metallic": 0.78,
+      "gloss": 0.86
+    },
+    {
+      "name": "trunk",
+      "color": "#26261DFF",
+      "metallic": 0.78,
+      "gloss": 0.86
+    },
+    {
+      "name": "hood",
+      "color": "#26261DFF",
+      "metallic": 0.78,
+      "gloss": 0.86
+    },
+    {
+      "name": "body",
+      "color": "#26261DFF",
+      "metallic": 0.78,
+      "gloss": 0.86
+    },
+    {
+      "name": "back",
+      "color": "#7C8C3014",
+      "metallic": 1.0,
+      "gloss": 0.9
+    },
+    {
+      "name": "mid",
+      "color": "#7C8C3014",
+      "metallic": 1.0,
+      "gloss": 0.9
+    },
+    {
+      "name": "front",
+      "color": "#2D2D2D14",
+      "metallic": 1.0,
+      "gloss": 0.9
+    },
+    {
+      "name": "front up",
+      "color": "#000000FF",
+      "metallic": 1.0,
+      "gloss": 0.9
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "FWD",
+  "upgrades": []
+}

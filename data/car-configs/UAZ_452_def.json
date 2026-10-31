@@ -1,0 +1,131 @@
+{
+  "v": 2,
+  "carName": "UAZ_452",
+  "engine": "Engine_70",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_4",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 32.0,
+      "width": 27.0,
+      "tire": "Tire_4",
+      "tireSize": 13.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_4",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 32.0,
+      "width": 27.0,
+      "tire": "Tire_4",
+      "tireSize": 13.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "body",
+      "color": "#20351DFF",
+      "metallic": 0.7,
+      "gloss": 0.94
+    },
+    {
+      "name": "back",
+      "color": "#0000008C",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#C2C2C205",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#C2C2C205",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#00000099",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "trunk",
+      "color": "#20351DFF",
+      "metallic": 0.7,
+      "gloss": 0.94
+    },
+    {
+      "name": "doors#b",
+      "color": "#20351DFF",
+      "metallic": 0.7,
+      "gloss": 0.94
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "AWD",
+  "upgrades": []
+}

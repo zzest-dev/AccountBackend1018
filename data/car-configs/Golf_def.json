@@ -1,0 +1,166 @@
+{
+  "v": 2,
+  "carName": "Golf",
+  "engine": "Engine_120",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_1",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#3C93DEFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#535353FF",
+          "metallic": 0.77,
+          "gloss": 0.85
+        },
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 29.0,
+      "width": 32.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_1",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#3C93DEFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#535353FF",
+          "metallic": 0.77,
+          "gloss": 0.85
+        },
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 29.0,
+      "width": 35.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#b",
+      "color": "#313131FF",
+      "metallic": 0.52,
+      "gloss": 0.67
+    },
+    {
+      "name": "front#b",
+      "color": "#313131FF",
+      "metallic": 0.52,
+      "gloss": 0.67
+    },
+    {
+      "name": "doors",
+      "color": "#313131FF",
+      "metallic": 0.52,
+      "gloss": 0.67
+    },
+    {
+      "name": "trunk",
+      "color": "#313131FF",
+      "metallic": 0.52,
+      "gloss": 0.67
+    },
+    {
+      "name": "hood",
+      "color": "#313131FF",
+      "metallic": 0.52,
+      "gloss": 0.67
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "mid",
+      "color": "#8484841F",
+      "metallic": 0.91,
+      "gloss": 0.91
+    },
+    {
+      "name": "back",
+      "color": "#8484841F",
+      "metallic": 0.91,
+      "gloss": 0.91
+    },
+    {
+      "name": "back#l",
+      "color": "#5DBFFF1F",
+      "metallic": 0.91,
+      "gloss": 0.91
+    },
+    {
+      "name": "front#l",
+      "color": "#00A5FF0F",
+      "metallic": 0.93,
+      "gloss": 0.74
+    },
+    {
+      "name": "front",
+      "color": "#5252521C",
+      "metallic": 0.86,
+      "gloss": 0.89
+    },
+    {
+      "name": "front up",
+      "color": "#000000BD",
+      "metallic": 0.91,
+      "gloss": 0.91
+    },
+    {
+      "name": "plastic window",
+      "color": "#000000FF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "FWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    }
+  ]
+}

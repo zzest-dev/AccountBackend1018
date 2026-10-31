@@ -1,0 +1,149 @@
+{
+  "v": 2,
+  "carName": "Lexi",
+  "engine": "Engine_200",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_19",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#4AB12AFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#C8C8C8FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#6C6C6CFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 35.0,
+      "width": 32.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_19",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#4AB12AFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#C8C8C8FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#6C6C6CFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 35.0,
+      "width": 35.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "doors",
+      "color": "#38472CFF",
+      "metallic": 0.82,
+      "gloss": 0.86
+    },
+    {
+      "name": "body",
+      "color": "#38472CFF",
+      "metallic": 0.82,
+      "gloss": 0.86
+    },
+    {
+      "name": "back#b",
+      "color": "#38472CFF",
+      "metallic": 0.82,
+      "gloss": 0.86
+    },
+    {
+      "name": "front#b",
+      "color": "#38472CFF",
+      "metallic": 0.82,
+      "gloss": 0.86
+    },
+    {
+      "name": "trunk",
+      "color": "#38472CFF",
+      "metallic": 0.82,
+      "gloss": 0.86
+    },
+    {
+      "name": "hood",
+      "color": "#38472CFF",
+      "metallic": 0.82,
+      "gloss": 0.86
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "mid",
+      "color": "#31313117",
+      "metallic": 0.77,
+      "gloss": 0.87
+    },
+    {
+      "name": "back",
+      "color": "#31313117",
+      "metallic": 0.77,
+      "gloss": 0.87
+    },
+    {
+      "name": "front",
+      "color": "#31313117",
+      "metallic": 0.77,
+      "gloss": 0.87
+    },
+    {
+      "name": "front up",
+      "color": "#000000C4",
+      "metallic": 0.77,
+      "gloss": 0.82
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "AWD",
+  "upgrades": []
+}

@@ -1,0 +1,164 @@
+{
+  "v": 2,
+  "carName": "Lada_Priora",
+  "engine": "Engine_120",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_1",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 30.0,
+      "width": 26.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_1",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 30.0,
+      "width": 26.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "doors",
+      "color": "#250C2EFF",
+      "metallic": 0.77,
+      "gloss": 0.85
+    },
+    {
+      "name": "front#b",
+      "color": "#250C2EFF",
+      "metallic": 0.77,
+      "gloss": 0.85
+    },
+    {
+      "name": "back#b",
+      "color": "#250C2EFF",
+      "metallic": 0.77,
+      "gloss": 0.85
+    },
+    {
+      "name": "body",
+      "color": "#250C2EFF",
+      "metallic": 0.77,
+      "gloss": 0.85
+    },
+    {
+      "name": "front#l",
+      "color": "#FFFFFF24",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#67676712",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "text#n",
+      "color": "#000000FF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "around#n",
+      "color": "#000000FF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "trunk",
+      "color": "#250C2EFF",
+      "metallic": 0.77,
+      "gloss": 0.85
+    },
+    {
+      "name": "hood",
+      "color": "#250C2EFF",
+      "metallic": 0.77,
+      "gloss": 0.85
+    },
+    {
+      "name": "back",
+      "color": "#3131315C",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#4A4A4A29",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000E3",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": ""
+  },
+  "WD": "FWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    },
+    {
+      "key": "Police",
+      "use": "No"
+    }
+  ]
+}

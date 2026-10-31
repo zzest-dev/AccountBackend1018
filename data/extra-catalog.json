@@ -1,0 +1,5791 @@
+{
+  "items": [
+    {
+      "str_id": "Male_backpack_0",
+      "group": "Male",
+      "price": 0,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "BackPack"
+      },
+      "item_id": 10000
+    },
+    {
+      "str_id": "Male_backpack_1",
+      "group": "Male",
+      "price": 55,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "BackPack"
+      },
+      "item_id": 10001
+    },
+    {
+      "str_id": "Male_bracelet_0",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10002
+    },
+    {
+      "str_id": "Male_bracelet_1",
+      "group": "Male",
+      "price": 10000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10003
+    },
+    {
+      "str_id": "Male_bracelet_2",
+      "group": "Male",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10004
+    },
+    {
+      "str_id": "Male_bracelet_3",
+      "group": "Male",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10005
+    },
+    {
+      "str_id": "Male_bracelet_4",
+      "group": "Male",
+      "price": 45,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10006
+    },
+    {
+      "str_id": "Male_bracelet_5",
+      "group": "Male",
+      "price": 60,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10007
+    },
+    {
+      "str_id": "Male_bracelet_6",
+      "group": "Male",
+      "price": 35000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10008
+    },
+    {
+      "str_id": "Male_bracelet_7",
+      "group": "Male",
+      "price": 45000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10009
+    },
+    {
+      "str_id": "Male_bracelet_8",
+      "group": "Male",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10010
+    },
+    {
+      "str_id": "Male_bracelet_0_right",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Right"
+      },
+      "item_id": 10011
+    },
+    {
+      "str_id": "Male_bracelet_9",
+      "group": "Male",
+      "price": 30000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Right"
+      },
+      "item_id": 10012
+    },
+    {
+      "str_id": "Male_bracelet_10",
+      "group": "Male",
+      "price": 35000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Right"
+      },
+      "item_id": 10013
+    },
+    {
+      "str_id": "Male_bracelet_11",
+      "group": "Male",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Right"
+      },
+      "item_id": 10014
+    },
+    {
+      "str_id": "Male_chain_0",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Neck"
+      },
+      "item_id": 10015
+    },
+    {
+      "str_id": "Male_chain_1",
+      "group": "Male",
+      "price": 55,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Neck"
+      },
+      "item_id": 10016
+    },
+    {
+      "str_id": "Male_chain_2",
+      "group": "Male",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Neck"
+      },
+      "item_id": 10017
+    },
+    {
+      "str_id": "Male_chain_3",
+      "group": "Male",
+      "price": 15000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Neck"
+      },
+      "item_id": 10018
+    },
+    {
+      "str_id": "Male_Glasses_0",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10019
+    },
+    {
+      "str_id": "Male_Glasses_1",
+      "group": "Male",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10020
+    },
+    {
+      "str_id": "Male_Glasses_2",
+      "group": "Male",
+      "price": 9000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10021
+    },
+    {
+      "str_id": "Male_Glasses_3",
+      "group": "Male",
+      "price": 9000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10022
+    },
+    {
+      "str_id": "Male_Glasses_4",
+      "group": "Male",
+      "price": 12000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10023
+    },
+    {
+      "str_id": "Male_Glasses_5",
+      "group": "Male",
+      "price": 15000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10024
+    },
+    {
+      "str_id": "Male_Glasses_6",
+      "group": "Male",
+      "price": 20000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10025
+    },
+    {
+      "str_id": "Male_Glasses_7",
+      "group": "Male",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10026
+    },
+    {
+      "str_id": "Male_Glasses_8",
+      "group": "Male",
+      "price": 30,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10027
+    },
+    {
+      "str_id": "Male_Glasses_9",
+      "group": "Male",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10028
+    },
+    {
+      "str_id": "Male_Glasses_10",
+      "group": "Male",
+      "price": 35000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10029
+    },
+    {
+      "str_id": "Male_Hair_0",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Heir"
+      },
+      "item_id": 10030
+    },
+    {
+      "str_id": "Male_hair_1",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Heir"
+      },
+      "item_id": 10031
+    },
+    {
+      "str_id": "Male_hair_2",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Heir"
+      },
+      "item_id": 10032
+    },
+    {
+      "str_id": "Male_hair_3",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Heir"
+      },
+      "item_id": 10033
+    },
+    {
+      "str_id": "Male_hair_4",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Heir"
+      },
+      "item_id": 10034
+    },
+    {
+      "str_id": "Male_hat_0",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10035
+    },
+    {
+      "str_id": "Male_Hat_12",
+      "group": "Male",
+      "price": 55,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10036
+    },
+    {
+      "str_id": "Male_hat_1",
+      "group": "Male",
+      "price": 1500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10037
+    },
+    {
+      "str_id": "Male_hat_2",
+      "group": "Male",
+      "price": 2500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10038
+    },
+    {
+      "str_id": "Male_hat_3",
+      "group": "Male",
+      "price": 14000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10039
+    },
+    {
+      "str_id": "Male_hat_4",
+      "group": "Male",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10040
+    },
+    {
+      "str_id": "Male_hat_5",
+      "group": "Male",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10041
+    },
+    {
+      "str_id": "Male_hat_6",
+      "group": "Male",
+      "price": 7000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10042
+    },
+    {
+      "str_id": "Male_hat_7",
+      "group": "Male",
+      "price": 45,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10043
+    },
+    {
+      "str_id": "Male_hat_8",
+      "group": "Male",
+      "price": 6000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10044
+    },
+    {
+      "str_id": "Male_hat_9",
+      "group": "Male",
+      "price": 7000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10045
+    },
+    {
+      "str_id": "Male_hat_10",
+      "group": "Male",
+      "price": 7500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10046
+    },
+    {
+      "str_id": "Male_hat_11",
+      "group": "Male",
+      "price": 7500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10047
+    },
+    {
+      "str_id": "Male_hat_14",
+      "group": "Male",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10048
+    },
+    {
+      "str_id": "Male_hat_15",
+      "group": "Male",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10049
+    },
+    {
+      "str_id": "Male_hat_16",
+      "group": "Male",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10050
+    },
+    {
+      "str_id": "Male_hat_17",
+      "group": "Male",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10051
+    },
+    {
+      "str_id": "Male_hat_18",
+      "group": "Male",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10052
+    },
+    {
+      "str_id": "Male_hat_19",
+      "group": "Male",
+      "price": 60,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10053
+    },
+    {
+      "str_id": "Male_hat_20",
+      "group": "Male",
+      "price": 45000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10054
+    },
+    {
+      "str_id": "Male_hat_21",
+      "group": "Male",
+      "price": 50000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10055
+    },
+    {
+      "str_id": "Male_head_1",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Head"
+      },
+      "item_id": 10056
+    },
+    {
+      "str_id": "Male_head_2",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Head"
+      },
+      "item_id": 10057
+    },
+    {
+      "str_id": "Male_head_3",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Head"
+      },
+      "item_id": 10058
+    },
+    {
+      "str_id": "Male_head_4",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Head"
+      },
+      "item_id": 10059
+    },
+    {
+      "str_id": "Male_head_5",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Head"
+      },
+      "item_id": 10060
+    },
+    {
+      "str_id": "Male_head_6",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Head"
+      },
+      "item_id": 10061
+    },
+    {
+      "str_id": "Male_head_7",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Head"
+      },
+      "item_id": 10062
+    },
+    {
+      "str_id": "Male_Masc_0",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10063
+    },
+    {
+      "str_id": "Male_Mask_12",
+      "group": "Male",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10064
+    },
+    {
+      "str_id": "Male_Mask_11",
+      "group": "Male",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10065
+    },
+    {
+      "str_id": "Male_Mask_1",
+      "group": "Male",
+      "price": 40000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10066
+    },
+    {
+      "str_id": "Male_Mask_2",
+      "group": "Male",
+      "price": 60,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10067
+    },
+    {
+      "str_id": "Male_Mask_3",
+      "group": "Male",
+      "price": 15000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10068
+    },
+    {
+      "str_id": "Male_Mask_4",
+      "group": "Male",
+      "price": 33,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10069
+    },
+    {
+      "str_id": "Male_Mask_5",
+      "group": "Male",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10070
+    },
+    {
+      "str_id": "Male_Mask_6",
+      "group": "Male",
+      "price": 40,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10071
+    },
+    {
+      "str_id": "Male_Mask_7",
+      "group": "Male",
+      "price": 33,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10072
+    },
+    {
+      "str_id": "Male_Mask_8",
+      "group": "Male",
+      "price": 35000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10073
+    },
+    {
+      "str_id": "Male_Mask_9",
+      "group": "Male",
+      "price": 30,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10074
+    },
+    {
+      "str_id": "Male_Mask_10",
+      "group": "Male",
+      "price": 30,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10075
+    },
+    {
+      "str_id": "Male_Mask_13",
+      "group": "Male",
+      "price": 15000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10076
+    },
+    {
+      "str_id": "Male_pants_0",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10077
+    },
+    {
+      "str_id": "Male_pants_18",
+      "group": "Male",
+      "price": 50,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10078
+    },
+    {
+      "str_id": "Male_pants_1",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10079
+    },
+    {
+      "str_id": "Male_pants_2",
+      "group": "Male",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10080
+    },
+    {
+      "str_id": "Male_pants_3",
+      "group": "Male",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10081
+    },
+    {
+      "str_id": "Male_pants_4",
+      "group": "Male",
+      "price": 4500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10082
+    },
+    {
+      "str_id": "Male_pants_5",
+      "group": "Male",
+      "price": 3000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10083
+    },
+    {
+      "str_id": "Male_pants_6",
+      "group": "Male",
+      "price": 1500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10084
+    },
+    {
+      "str_id": "Male_pants_7",
+      "group": "Male",
+      "price": 14000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10085
+    },
+    {
+      "str_id": "Male_pants_8",
+      "group": "Male",
+      "price": 2500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10086
+    },
+    {
+      "str_id": "Male_pants_9",
+      "group": "Male",
+      "price": 22000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10087
+    },
+    {
+      "str_id": "Male_pants_10",
+      "group": "Male",
+      "price": 3500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10088
+    },
+    {
+      "str_id": "Male_pants_11",
+      "group": "Male",
+      "price": 2200,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10089
+    },
+    {
+      "str_id": "Male_pants_12",
+      "group": "Male",
+      "price": 6000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10090
+    },
+    {
+      "str_id": "Male_pants_13",
+      "group": "Male",
+      "price": 4000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10091
+    },
+    {
+      "str_id": "Male_pants_14",
+      "group": "Male",
+      "price": 2200,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10092
+    },
+    {
+      "str_id": "Male_pants_15",
+      "group": "Male",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10093
+    },
+    {
+      "str_id": "Male_pants_16",
+      "group": "Male",
+      "price": 12000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10094
+    },
+    {
+      "str_id": "Male_pants_17",
+      "group": "Male",
+      "price": 4000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10095
+    },
+    {
+      "str_id": "Male_pants_19",
+      "group": "Male",
+      "price": 40,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10096
+    },
+    {
+      "str_id": "Male_pants_20",
+      "group": "Male",
+      "price": 45,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10097
+    },
+    {
+      "str_id": "Male_shirt_0",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10098
+    },
+    {
+      "str_id": "Male_shirt_28",
+      "group": "Male",
+      "price": 55,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10099
+    },
+    {
+      "str_id": "Male_shirt_1",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10100
+    },
+    {
+      "str_id": "Male_shirt_2",
+      "group": "Male",
+      "price": 1500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10101
+    },
+    {
+      "str_id": "Male_shirt_3",
+      "group": "Male",
+      "price": 2000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10102
+    },
+    {
+      "str_id": "Male_shirt_4",
+      "group": "Male",
+      "price": 2500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10103
+    },
+    {
+      "str_id": "Male_shirt_5",
+      "group": "Male",
+      "price": 4500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10104
+    },
+    {
+      "str_id": "Male_shirt_6",
+      "group": "Male",
+      "price": 9000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10105
+    },
+    {
+      "str_id": "Male_shirt_7",
+      "group": "Male",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10106
+    },
+    {
+      "str_id": "Male_shirt_8",
+      "group": "Male",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10107
+    },
+    {
+      "str_id": "Male_shirt_9",
+      "group": "Male",
+      "price": 11000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10108
+    },
+    {
+      "str_id": "Male_shirt_10",
+      "group": "Male",
+      "price": 7000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10109
+    },
+    {
+      "str_id": "Male_shirt_11",
+      "group": "Male",
+      "price": 3000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10110
+    },
+    {
+      "str_id": "Male_shirt_12",
+      "group": "Male",
+      "price": 5000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10111
+    },
+    {
+      "str_id": "Male_shirt_13",
+      "group": "Male",
+      "price": 8000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10112
+    },
+    {
+      "str_id": "Male_shirt_14",
+      "group": "Male",
+      "price": 4000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10113
+    },
+    {
+      "str_id": "Male_shirt_15",
+      "group": "Male",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10114
+    },
+    {
+      "str_id": "Male_shirt_16",
+      "group": "Male",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10115
+    },
+    {
+      "str_id": "Male_shirt_17",
+      "group": "Male",
+      "price": 1800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10116
+    },
+    {
+      "str_id": "Male_shirt_18",
+      "group": "Male",
+      "price": 20000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10117
+    },
+    {
+      "str_id": "Male_shirt_19",
+      "group": "Male",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10118
+    },
+    {
+      "str_id": "Male_shirt_20",
+      "group": "Male",
+      "price": 30,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10119
+    },
+    {
+      "str_id": "Male_shirt_21",
+      "group": "Male",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10120
+    },
+    {
+      "str_id": "Male_shirt_22",
+      "group": "Male",
+      "price": 28000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10121
+    },
+    {
+      "str_id": "Male_shirt_23",
+      "group": "Male",
+      "price": 35000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10122
+    },
+    {
+      "str_id": "Male_shirt_25",
+      "group": "Male",
+      "price": 35000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10123
+    },
+    {
+      "str_id": "Male_shirt_26",
+      "group": "Male",
+      "price": 40,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10124
+    },
+    {
+      "str_id": "Male_shirt_27",
+      "group": "Male",
+      "price": 45,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10125
+    },
+    {
+      "str_id": "Male_shirt_29",
+      "group": "Male",
+      "price": 40,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10126
+    },
+    {
+      "str_id": "Male_shirt_30",
+      "group": "Male",
+      "price": 45,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10127
+    },
+    {
+      "str_id": "Male_shirt_31",
+      "group": "Male",
+      "price": 45,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10128
+    },
+    {
+      "str_id": "Male_shirt_32",
+      "group": "Male",
+      "price": 55,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10129
+    },
+    {
+      "str_id": "Male_shirt_33",
+      "group": "Male",
+      "price": 75000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10130
+    },
+    {
+      "str_id": "Male_shirt_34",
+      "group": "Male",
+      "price": 50,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10131
+    },
+    {
+      "str_id": "Male_shoe_0",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10132
+    },
+    {
+      "str_id": "Male_shoe_1",
+      "group": "Male",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10133
+    },
+    {
+      "str_id": "Male_shoe_2",
+      "group": "Male",
+      "price": 7000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10134
+    },
+    {
+      "str_id": "Male_shoe_3",
+      "group": "Male",
+      "price": 14000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10135
+    },
+    {
+      "str_id": "Male_shoe_4",
+      "group": "Male",
+      "price": 5500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10136
+    },
+    {
+      "str_id": "Male_shoe_5",
+      "group": "Male",
+      "price": 3000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10137
+    },
+    {
+      "str_id": "Male_Shoe_6",
+      "group": "Male",
+      "price": 7500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10138
+    },
+    {
+      "str_id": "Male_shoe_7",
+      "group": "Male",
+      "price": 3400,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10139
+    },
+    {
+      "str_id": "Male_shoe_8",
+      "group": "Male",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10140
+    },
+    {
+      "str_id": "Male_shoe_9",
+      "group": "Male",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10141
+    },
+    {
+      "str_id": "Male_shoe_10",
+      "group": "Male",
+      "price": 5000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10142
+    },
+    {
+      "str_id": "Male_shoe_11",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10143
+    },
+    {
+      "str_id": "Male_Shoe_12",
+      "group": "Male",
+      "price": 6500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10144
+    },
+    {
+      "str_id": "Male_Shoe_18",
+      "group": "Male",
+      "price": 6500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10145
+    },
+    {
+      "str_id": "Male_shoe_19",
+      "group": "Male",
+      "price": 7000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10146
+    },
+    {
+      "str_id": "Male_Shoe_20",
+      "group": "Male",
+      "price": 7500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10147
+    },
+    {
+      "str_id": "Male_shoe_21",
+      "group": "Male",
+      "price": 15000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10148
+    },
+    {
+      "str_id": "Male_shoe_22",
+      "group": "Male",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10149
+    },
+    {
+      "str_id": "Male_vest_0",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "BodyArmor"
+      },
+      "item_id": 10150
+    },
+    {
+      "str_id": "Male_vest_1",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "BodyArmor"
+      },
+      "item_id": 10151
+    },
+    {
+      "str_id": "Male_vest_2",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "BodyArmor"
+      },
+      "item_id": 10152
+    },
+    {
+      "str_id": "Male_vest_3",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "BodyArmor"
+      },
+      "item_id": 10153
+    },
+    {
+      "str_id": "Male_Main_MaleBody",
+      "group": "Male",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Body"
+      },
+      "item_id": 10154
+    },
+    {
+      "str_id": "FeMale_head_1",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Head"
+      },
+      "item_id": 10155
+    },
+    {
+      "str_id": "FeMale_head_2",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Head"
+      },
+      "item_id": 10156
+    },
+    {
+      "str_id": "FeMale_head_3",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Head"
+      },
+      "item_id": 10157
+    },
+    {
+      "str_id": "FeMale_head_4",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Head"
+      },
+      "item_id": 10158
+    },
+    {
+      "str_id": "FeMale_head_5",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Head"
+      },
+      "item_id": 10159
+    },
+    {
+      "str_id": "FeMale_head_6 ",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Head"
+      },
+      "item_id": 10160
+    },
+    {
+      "str_id": "FeMale_head_7",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Head"
+      },
+      "item_id": 10161
+    },
+    {
+      "str_id": "FeMale_Hair_0",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Heir"
+      },
+      "item_id": 10162
+    },
+    {
+      "str_id": "FeMale_hair_1",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Heir"
+      },
+      "item_id": 10163
+    },
+    {
+      "str_id": "FeMale_hair_2",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Heir"
+      },
+      "item_id": 10164
+    },
+    {
+      "str_id": "FeMale_Hair_3",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Heir"
+      },
+      "item_id": 10165
+    },
+    {
+      "str_id": "FeMale_Hair_4",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Heir"
+      },
+      "item_id": 10166
+    },
+    {
+      "str_id": "FeMale_hair_5",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Heir"
+      },
+      "item_id": 10167
+    },
+    {
+      "str_id": "FeMale_hair_6",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Heir"
+      },
+      "item_id": 10168
+    },
+    {
+      "str_id": "FeMale_hat_0",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10169
+    },
+    {
+      "str_id": "FeMale_Hat_12",
+      "group": "FeMale",
+      "price": 55,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10170
+    },
+    {
+      "str_id": "FeMale_Hat_13",
+      "group": "FeMale",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10171
+    },
+    {
+      "str_id": "FeMale_hat_1",
+      "group": "FeMale",
+      "price": 1500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10172
+    },
+    {
+      "str_id": "FeMale_hat_2",
+      "group": "FeMale",
+      "price": 2500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10173
+    },
+    {
+      "str_id": "FeMale_hat_3",
+      "group": "FeMale",
+      "price": 14000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10174
+    },
+    {
+      "str_id": "FeMale_hat_4",
+      "group": "FeMale",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10175
+    },
+    {
+      "str_id": "FeMale_hat_5",
+      "group": "FeMale",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10176
+    },
+    {
+      "str_id": "FeMale_hat_6",
+      "group": "FeMale",
+      "price": 7000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10177
+    },
+    {
+      "str_id": "FeMale_hat_7",
+      "group": "FeMale",
+      "price": 45,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10178
+    },
+    {
+      "str_id": "FeMale_hat_8",
+      "group": "FeMale",
+      "price": 6000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10179
+    },
+    {
+      "str_id": "FeMale_hat_9",
+      "group": "FeMale",
+      "price": 7000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10180
+    },
+    {
+      "str_id": "FeMale_hat_10",
+      "group": "FeMale",
+      "price": 7500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10181
+    },
+    {
+      "str_id": "FeMale_hat_11",
+      "group": "FeMale",
+      "price": 7500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10182
+    },
+    {
+      "str_id": "FeMale_hat_14",
+      "group": "FeMale",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10183
+    },
+    {
+      "str_id": "FeMale_hat_15",
+      "group": "FeMale",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10184
+    },
+    {
+      "str_id": "FeMale_hat_16",
+      "group": "FeMale",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10185
+    },
+    {
+      "str_id": "FeMale_hat_17",
+      "group": "FeMale",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10186
+    },
+    {
+      "str_id": "FeMale_hat_18",
+      "group": "FeMale",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10187
+    },
+    {
+      "str_id": "FeMale_hat_19",
+      "group": "FeMale",
+      "price": 60,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10188
+    },
+    {
+      "str_id": "FeMale_hat_20",
+      "group": "FeMale",
+      "price": 45000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10189
+    },
+    {
+      "str_id": "FeMale_hat_21",
+      "group": "FeMale",
+      "price": 50000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hat"
+      },
+      "item_id": 10190
+    },
+    {
+      "str_id": "FeMale_Glasses_0",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10191
+    },
+    {
+      "str_id": "FeMale_Glasses_1",
+      "group": "FeMale",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10192
+    },
+    {
+      "str_id": "FeMale_Glasses_2",
+      "group": "FeMale",
+      "price": 9000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10193
+    },
+    {
+      "str_id": "FeMale_Glasses_3",
+      "group": "FeMale",
+      "price": 9000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10194
+    },
+    {
+      "str_id": "FeMale_Glasses_4",
+      "group": "FeMale",
+      "price": 12000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10195
+    },
+    {
+      "str_id": "FeMale_Glasses_5",
+      "group": "FeMale",
+      "price": 15000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10196
+    },
+    {
+      "str_id": "FeMale_Glasses_6",
+      "group": "FeMale",
+      "price": 20000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10197
+    },
+    {
+      "str_id": "FeMale_Glasses_7",
+      "group": "FeMale",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10198
+    },
+    {
+      "str_id": "FeMale_Glasses_8",
+      "group": "FeMale",
+      "price": 30,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10199
+    },
+    {
+      "str_id": "FeMale_Glasses_9",
+      "group": "FeMale",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10200
+    },
+    {
+      "str_id": "FeMale_Glasses_10",
+      "group": "FeMale",
+      "price": 35000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Glasses"
+      },
+      "item_id": 10201
+    },
+    {
+      "str_id": "FeMale_vest_0",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "BodyArmor"
+      },
+      "item_id": 10202
+    },
+    {
+      "str_id": "FeMale_vest_1",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "BodyArmor"
+      },
+      "item_id": 10203
+    },
+    {
+      "str_id": "FeMale_vest_2",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "BodyArmor"
+      },
+      "item_id": 10204
+    },
+    {
+      "str_id": "FeMale_vest_3",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "BodyArmor"
+      },
+      "item_id": 10205
+    },
+    {
+      "str_id": "FeMale_Masc_0",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10206
+    },
+    {
+      "str_id": "FeMale_Mask_12",
+      "group": "FeMale",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10207
+    },
+    {
+      "str_id": "FeMale_Mask_11",
+      "group": "FeMale",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10208
+    },
+    {
+      "str_id": "FeMale_Mask_1",
+      "group": "FeMale",
+      "price": 40000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10209
+    },
+    {
+      "str_id": "FeMale_Mask_2",
+      "group": "FeMale",
+      "price": 60,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10210
+    },
+    {
+      "str_id": "FeMale_Mask_3",
+      "group": "FeMale",
+      "price": 15000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10211
+    },
+    {
+      "str_id": "FeMale_Mask_4",
+      "group": "FeMale",
+      "price": 33,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10212
+    },
+    {
+      "str_id": "FeMale_Mask_5",
+      "group": "FeMale",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10213
+    },
+    {
+      "str_id": "FeMale_Mask_6",
+      "group": "FeMale",
+      "price": 40,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10214
+    },
+    {
+      "str_id": "FeMale_Mask_7",
+      "group": "FeMale",
+      "price": 33,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10215
+    },
+    {
+      "str_id": "FeMale_Mask_8",
+      "group": "FeMale",
+      "price": 35000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10216
+    },
+    {
+      "str_id": "FeMale_Mask_9",
+      "group": "FeMale",
+      "price": 30,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10217
+    },
+    {
+      "str_id": "FeMale_Mask_10",
+      "group": "FeMale",
+      "price": 30,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10218
+    },
+    {
+      "str_id": "FeMale_Mask_13",
+      "group": "FeMale",
+      "price": 15000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Mask"
+      },
+      "item_id": 10219
+    },
+    {
+      "str_id": "FeMale_shirt_0",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10220
+    },
+    {
+      "str_id": "FeMale_Shirt_22",
+      "group": "FeMale",
+      "price": 45,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10221
+    },
+    {
+      "str_id": "FeMale_Shirt_21",
+      "group": "FeMale",
+      "price": 60,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10222
+    },
+    {
+      "str_id": "FeMale_Shirt_1",
+      "group": "FeMale",
+      "price": 1000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10223
+    },
+    {
+      "str_id": "FeMale_Shirt_2",
+      "group": "FeMale",
+      "price": 1500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10224
+    },
+    {
+      "str_id": "FeMale_Shirt_3",
+      "group": "FeMale",
+      "price": 2500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10225
+    },
+    {
+      "str_id": "FeMale_Shirt_4",
+      "group": "FeMale",
+      "price": 2000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10226
+    },
+    {
+      "str_id": "FeMale_Shirt_5",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10227
+    },
+    {
+      "str_id": "FeMale_Shirt_6",
+      "group": "FeMale",
+      "price": 2500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10228
+    },
+    {
+      "str_id": "FeMale_Shirt_7",
+      "group": "FeMale",
+      "price": 4500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10229
+    },
+    {
+      "str_id": "FeMale_Shirt_8",
+      "group": "FeMale",
+      "price": 9000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10230
+    },
+    {
+      "str_id": "FeMale_Shirt_9",
+      "group": "FeMale",
+      "price": 8500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10231
+    },
+    {
+      "str_id": "FeMale_Shirt_10",
+      "group": "FeMale",
+      "price": 10000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10232
+    },
+    {
+      "str_id": "FeMale_Shirt_11",
+      "group": "FeMale",
+      "price": 11500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10233
+    },
+    {
+      "str_id": "FeMale_Shirt_12",
+      "group": "FeMale",
+      "price": 15500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10234
+    },
+    {
+      "str_id": "FeMale_Shirt_13",
+      "group": "FeMale",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10235
+    },
+    {
+      "str_id": "FeMale_Shirt_14",
+      "group": "FeMale",
+      "price": 35000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10236
+    },
+    {
+      "str_id": "FeMale_Shirt_15",
+      "group": "FeMale",
+      "price": 20000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10237
+    },
+    {
+      "str_id": "FeMale_Shirt_16",
+      "group": "FeMale",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10238
+    },
+    {
+      "str_id": "FeMale_Shirt_17",
+      "group": "FeMale",
+      "price": 30,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10239
+    },
+    {
+      "str_id": "FeMale_Shirt_18",
+      "group": "FeMale",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10240
+    },
+    {
+      "str_id": "FeMale_Shirt_19",
+      "group": "FeMale",
+      "price": 30,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10241
+    },
+    {
+      "str_id": "FeMale_Shirt_20",
+      "group": "FeMale",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10242
+    },
+    {
+      "str_id": "FeMale_Shirt_23",
+      "group": "FeMale",
+      "price": 45,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10243
+    },
+    {
+      "str_id": "FeMale_Shirt_24",
+      "group": "FeMale",
+      "price": 60,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10244
+    },
+    {
+      "str_id": "FeMale_shirt_25",
+      "group": "FeMale",
+      "price": 75000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10245
+    },
+    {
+      "str_id": "FeMale_shirt_26",
+      "group": "FeMale",
+      "price": 55,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10246
+    },
+    {
+      "str_id": "FeMale_shirt_34",
+      "group": "FeMale",
+      "price": 50,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "TShort"
+      },
+      "item_id": 10247
+    },
+    {
+      "str_id": "FeMale_pants_0",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10248
+    },
+    {
+      "str_id": "FeMale_Pants_20",
+      "group": "FeMale",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10249
+    },
+    {
+      "str_id": "FeMale_Pants_19",
+      "group": "FeMale",
+      "price": 45,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10250
+    },
+    {
+      "str_id": "FeMale_Pants_1",
+      "group": "FeMale",
+      "price": 2000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10251
+    },
+    {
+      "str_id": "FeMale_Pants_2",
+      "group": "FeMale",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10252
+    },
+    {
+      "str_id": "FeMale_Pants_3",
+      "group": "FeMale",
+      "price": 2500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10253
+    },
+    {
+      "str_id": "FeMale_Pants_4",
+      "group": "FeMale",
+      "price": 3500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10254
+    },
+    {
+      "str_id": "FeMale_Pants_5",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10255
+    },
+    {
+      "str_id": "FeMale_Pants_6",
+      "group": "FeMale",
+      "price": 6000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10256
+    },
+    {
+      "str_id": "FeMale_Pants_7",
+      "group": "FeMale",
+      "price": 7500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10257
+    },
+    {
+      "str_id": "FeMale_Pants_8",
+      "group": "FeMale",
+      "price": 8000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10258
+    },
+    {
+      "str_id": "FeMale_Pants_9",
+      "group": "FeMale",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10259
+    },
+    {
+      "str_id": "FeMale_Pants_10",
+      "group": "FeMale",
+      "price": 9000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10260
+    },
+    {
+      "str_id": "FeMale_Pants_11",
+      "group": "FeMale",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10261
+    },
+    {
+      "str_id": "FeMale_Pants_12",
+      "group": "FeMale",
+      "price": 11500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10262
+    },
+    {
+      "str_id": "FeMale_Pants_13",
+      "group": "FeMale",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10263
+    },
+    {
+      "str_id": "FeMale_Pants_14",
+      "group": "FeMale",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10264
+    },
+    {
+      "str_id": "FeMale_Pants_15",
+      "group": "FeMale",
+      "price": 20000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10265
+    },
+    {
+      "str_id": "FeMale_Pants_16",
+      "group": "FeMale",
+      "price": 10000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10266
+    },
+    {
+      "str_id": "FeMale_Pants_17",
+      "group": "FeMale",
+      "price": 11500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10267
+    },
+    {
+      "str_id": "FeMale_Pants_18",
+      "group": "FeMale",
+      "price": 10000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10268
+    },
+    {
+      "str_id": "FeMale_Pants_21",
+      "group": "FeMale",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Pants"
+      },
+      "item_id": 10269
+    },
+    {
+      "str_id": "FeMale_shoe_0",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10270
+    },
+    {
+      "str_id": "FeMale_shoe_1",
+      "group": "FeMale",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10271
+    },
+    {
+      "str_id": "FeMale_shoe_2",
+      "group": "FeMale",
+      "price": 7000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10272
+    },
+    {
+      "str_id": "FeMale_shoe_3",
+      "group": "FeMale",
+      "price": 14000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10273
+    },
+    {
+      "str_id": "FeMale_shoe_4",
+      "group": "FeMale",
+      "price": 5500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10274
+    },
+    {
+      "str_id": "FeMale_shoe_5",
+      "group": "FeMale",
+      "price": 3000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10275
+    },
+    {
+      "str_id": "FeMale_Shoe_6",
+      "group": "FeMale",
+      "price": 7500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10276
+    },
+    {
+      "str_id": "FeMale_shoe_7",
+      "group": "FeMale",
+      "price": 3400,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10277
+    },
+    {
+      "str_id": "FeMale_shoe_8",
+      "group": "FeMale",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10278
+    },
+    {
+      "str_id": "FeMale_shoe_9",
+      "group": "FeMale",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10279
+    },
+    {
+      "str_id": "FeMale_shoe_10",
+      "group": "FeMale",
+      "price": 5000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10280
+    },
+    {
+      "str_id": "FeMale_shoe_11",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10281
+    },
+    {
+      "str_id": "FeMale_Shoe_12",
+      "group": "FeMale",
+      "price": 6500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10282
+    },
+    {
+      "str_id": "FeMale_Shoe_13",
+      "group": "FeMale",
+      "price": 5000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10283
+    },
+    {
+      "str_id": "FeMale_Shoe_14",
+      "group": "FeMale",
+      "price": 5500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10284
+    },
+    {
+      "str_id": "FeMale_Shoe_15",
+      "group": "FeMale",
+      "price": 6000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10285
+    },
+    {
+      "str_id": "FeMale_Shoe_16",
+      "group": "FeMale",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10286
+    },
+    {
+      "str_id": "FeMale_Shoe_17",
+      "group": "FeMale",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10287
+    },
+    {
+      "str_id": "FeMale_Shoe_18",
+      "group": "FeMale",
+      "price": 6500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10288
+    },
+    {
+      "str_id": "FeMale_shoe_19",
+      "group": "FeMale",
+      "price": 7000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10289
+    },
+    {
+      "str_id": "FeMale_Shoe_20",
+      "group": "FeMale",
+      "price": 8500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Shoes"
+      },
+      "item_id": 10290
+    },
+    {
+      "str_id": "FeMale_backpack_0",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "BackPack"
+      },
+      "item_id": 10291
+    },
+    {
+      "str_id": "FeMale_backpack_1",
+      "group": "FeMale",
+      "price": 55,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "BackPack"
+      },
+      "item_id": 10292
+    },
+    {
+      "str_id": "FeMale_bracelet_0",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10293
+    },
+    {
+      "str_id": "FeMale_bracelet_1",
+      "group": "FeMale",
+      "price": 10000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10294
+    },
+    {
+      "str_id": "FeMale_bracelet_2",
+      "group": "FeMale",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10295
+    },
+    {
+      "str_id": "FeMale_bracelet_3",
+      "group": "FeMale",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10296
+    },
+    {
+      "str_id": "FeMale_bracelet_4",
+      "group": "FeMale",
+      "price": 45,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10297
+    },
+    {
+      "str_id": "FeMale_bracelet_5",
+      "group": "FeMale",
+      "price": 60,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10298
+    },
+    {
+      "str_id": "FeMale_bracelet_6",
+      "group": "FeMale",
+      "price": 35000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10299
+    },
+    {
+      "str_id": "FeMale_bracelet_7",
+      "group": "FeMale",
+      "price": 45000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10300
+    },
+    {
+      "str_id": "FeMale_bracelet_8",
+      "group": "FeMale",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Left"
+      },
+      "item_id": 10301
+    },
+    {
+      "str_id": "FeMale_bracelet_0_right",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Right"
+      },
+      "item_id": 10302
+    },
+    {
+      "str_id": "FeMale_bracelet_9",
+      "group": "FeMale",
+      "price": 30000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Right"
+      },
+      "item_id": 10303
+    },
+    {
+      "str_id": "FeMale_bracelet_10",
+      "group": "FeMale",
+      "price": 35000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Right"
+      },
+      "item_id": 10304
+    },
+    {
+      "str_id": "FeMale_bracelet_11",
+      "group": "FeMale",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Hand_Right"
+      },
+      "item_id": 10305
+    },
+    {
+      "str_id": "FeMale_chain_0",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Neck"
+      },
+      "item_id": 10306
+    },
+    {
+      "str_id": "FeMale_chain_1",
+      "group": "FeMale",
+      "price": 55,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Neck"
+      },
+      "item_id": 10307
+    },
+    {
+      "str_id": "FeMale_chain_2",
+      "group": "FeMale",
+      "price": 35,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Neck"
+      },
+      "item_id": 10308
+    },
+    {
+      "str_id": "FeMale_chain_3",
+      "group": "FeMale",
+      "price": 15000,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "slot": "Neck"
+      },
+      "item_id": 10309
+    },
+    {
+      "str_id": "FeMale_MainBody",
+      "group": "FeMale",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "slot": "Body"
+      },
+      "item_id": 10310
+    },
+    {
+      "str_id": "Paint_Car_Body",
+      "group": "CarPaint",
+      "price": 300,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10311
+    },
+    {
+      "str_id": "Car_Paint_Wheel",
+      "group": "CarPaint",
+      "price": 100,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10312
+    },
+    {
+      "str_id": "Paint_Car_Wheel",
+      "group": "CarPaint",
+      "price": 100,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10313
+    },
+    {
+      "str_id": "Paint_Car_OneVinil",
+      "group": "CarPaint",
+      "price": 50,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10314
+    },
+    {
+      "str_id": "Engine_70",
+      "group": "CarEngine",
+      "price": 5000,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10315
+    },
+    {
+      "str_id": "Engine_120",
+      "group": "CarEngine",
+      "price": 12000,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10316
+    },
+    {
+      "str_id": "Engine_200",
+      "group": "CarEngine",
+      "price": 32000,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10317
+    },
+    {
+      "str_id": "Engine_300",
+      "group": "CarEngine",
+      "price": 72000,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10318
+    },
+    {
+      "str_id": "Engine_330",
+      "group": "CarEngine",
+      "price": 87000,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10319
+    },
+    {
+      "str_id": "Engine_500",
+      "group": "CarEngine",
+      "price": 145,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {},
+      "item_id": 10320
+    },
+    {
+      "str_id": "Engine_80_Tractor",
+      "group": "CarEngine",
+      "price": 3000,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10321
+    },
+    {
+      "str_id": "Car_Wheel_1",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10322
+    },
+    {
+      "str_id": "Car_Wheel_25",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10323
+    },
+    {
+      "str_id": "Car_Wheel_19",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10324
+    },
+    {
+      "str_id": "Car_Wheel_14",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10325
+    },
+    {
+      "str_id": "Car_Wheel_21",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10326
+    },
+    {
+      "str_id": "Car_Wheel_35",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10327
+    },
+    {
+      "str_id": "Car_Wheel_27",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10328
+    },
+    {
+      "str_id": "Car_Wheel_26",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10329
+    },
+    {
+      "str_id": "Car_Wheel_18",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10330
+    },
+    {
+      "str_id": "Car_Wheel_23",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10331
+    },
+    {
+      "str_id": "Car_Wheel_2",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10332
+    },
+    {
+      "str_id": "Car_Wheel_3",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10333
+    },
+    {
+      "str_id": "Car_Wheel_30",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10334
+    },
+    {
+      "str_id": "Car_Wheel_24",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10335
+    },
+    {
+      "str_id": "Car_Wheel_4",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10336
+    },
+    {
+      "str_id": "Car_Wheel_5",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10337
+    },
+    {
+      "str_id": "Car_Wheel_6",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10338
+    },
+    {
+      "str_id": "Car_Wheel_7",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10339
+    },
+    {
+      "str_id": "Car_Wheel_29",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10340
+    },
+    {
+      "str_id": "Car_Wheel_20",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10341
+    },
+    {
+      "str_id": "Car_Wheel_28",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10342
+    },
+    {
+      "str_id": "Car_Wheel_22",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10343
+    },
+    {
+      "str_id": "Car_Wheel_32",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10344
+    },
+    {
+      "str_id": "Car_Wheel_31",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10345
+    },
+    {
+      "str_id": "Car_Wheel_33",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10346
+    },
+    {
+      "str_id": "Car_Wheel_34",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10347
+    },
+    {
+      "str_id": "Car_Wheel_15",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10348
+    },
+    {
+      "str_id": "Car_Wheel_16",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10349
+    },
+    {
+      "str_id": "Car_Wheel_17",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10350
+    },
+    {
+      "str_id": "Car_Wheel_8",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10351
+    },
+    {
+      "str_id": "Car_Wheel_9",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10352
+    },
+    {
+      "str_id": "Car_Wheel_10",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10353
+    },
+    {
+      "str_id": "Car_Wheel_11",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10354
+    },
+    {
+      "str_id": "Car_Wheel_12",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10355
+    },
+    {
+      "str_id": "Car_Wheel_13",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10356
+    },
+    {
+      "str_id": "Car_Wheel_36",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10357
+    },
+    {
+      "str_id": "Car_Wheel_37",
+      "group": "CarWheel",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10358
+    },
+    {
+      "str_id": "Car_Tire_1",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10359
+    },
+    {
+      "str_id": "Car_Tire_0",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10360
+    },
+    {
+      "str_id": "Car_Tire_2",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10361
+    },
+    {
+      "str_id": "Car_Tire_3",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10362
+    },
+    {
+      "str_id": "Car_Tire_7",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10363
+    },
+    {
+      "str_id": "Car_Tire_21",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10364
+    },
+    {
+      "str_id": "Car_Tire_14",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10365
+    },
+    {
+      "str_id": "Car_Tire_19",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10366
+    },
+    {
+      "str_id": "Car_Tire_20",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10367
+    },
+    {
+      "str_id": "Car_Tire_18",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10368
+    },
+    {
+      "str_id": "Car_Tire_9",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10369
+    },
+    {
+      "str_id": "Car_Tire_15",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10370
+    },
+    {
+      "str_id": "Car_Tire_5",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10371
+    },
+    {
+      "str_id": "Car_Tire_6",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10372
+    },
+    {
+      "str_id": "Car_Tire_4",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10373
+    },
+    {
+      "str_id": "Car_Tire_8",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10374
+    },
+    {
+      "str_id": "Car_Tire_10",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10375
+    },
+    {
+      "str_id": "Car_Tire_11",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10376
+    },
+    {
+      "str_id": "Car_Tire_12",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10377
+    },
+    {
+      "str_id": "Car_Tire_13",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10378
+    },
+    {
+      "str_id": "Car_Tire_16",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10379
+    },
+    {
+      "str_id": "Car_Tire_17",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10380
+    },
+    {
+      "str_id": "Car_Tire_22",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10381
+    },
+    {
+      "str_id": "Car_Tire_23",
+      "group": "CarTire",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10382
+    },
+    {
+      "str_id": "Car_Susp_Change",
+      "group": "CarSto",
+      "price": 1700,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10383
+    },
+    {
+      "str_id": "Car_Upgrade_No",
+      "group": "CarSto",
+      "price": 0,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10384
+    },
+    {
+      "str_id": "Car_Change_Horn",
+      "group": "CarSto",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {},
+      "item_id": 10385
+    },
+    {
+      "str_id": "Car_Garge_Fix",
+      "group": "CarSto",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {},
+      "item_id": 10386
+    },
+    {
+      "str_id": "Car_Garage_FillNitro",
+      "group": "CarSto",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {},
+      "item_id": 10387
+    },
+    {
+      "str_id": "Car_Menu_FillNitro",
+      "group": "CarSto",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {},
+      "item_id": 10388
+    },
+    {
+      "str_id": "Car_Delivery_Slow",
+      "group": "CarSto",
+      "price": 800,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10389
+    },
+    {
+      "str_id": "Car_Delivery_Normal",
+      "group": "CarSto",
+      "price": 5,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {},
+      "item_id": 10390
+    },
+    {
+      "str_id": "Car_Delivery_Fast",
+      "group": "CarSto",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {},
+      "item_id": 10391
+    },
+    {
+      "str_id": "Car_Number_Front_Back",
+      "group": "CarSto",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {},
+      "item_id": 10392
+    },
+    {
+      "str_id": "Car_Number_Front",
+      "group": "CarSto",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {},
+      "item_id": 10393
+    },
+    {
+      "str_id": "Car_Number_Back",
+      "group": "CarSto",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {},
+      "item_id": 10394
+    },
+    {
+      "str_id": "Car_Number_None",
+      "group": "CarSto",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {},
+      "item_id": 10395
+    },
+    {
+      "str_id": "Car_Change_Number",
+      "group": "CarSto",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {},
+      "item_id": 10396
+    },
+    {
+      "str_id": "Car_Change_AWD",
+      "group": "CarSto",
+      "price": 3500,
+      "currency": "coins",
+      "consumable": true,
+      "data": {},
+      "item_id": 10397
+    },
+    {
+      "str_id": "Primitive_0",
+      "group": "CarPaint",
+      "price": 0,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_0"
+      },
+      "item_id": 10398
+    },
+    {
+      "str_id": "Primitive_0_Text",
+      "group": "CarPaint",
+      "price": 0,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_0_Text"
+      },
+      "item_id": 10399
+    },
+    {
+      "str_id": "Primitive_1",
+      "group": "CarPaint",
+      "price": 0,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_1"
+      },
+      "item_id": 10400
+    },
+    {
+      "str_id": "Primitive_10",
+      "group": "CarPaint",
+      "price": 800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_10"
+      },
+      "item_id": 10401
+    },
+    {
+      "str_id": "Primitive_11",
+      "group": "CarPaint",
+      "price": 500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_11"
+      },
+      "item_id": 10402
+    },
+    {
+      "str_id": "Primitive_12",
+      "group": "CarPaint",
+      "price": 800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_12"
+      },
+      "item_id": 10403
+    },
+    {
+      "str_id": "Primitive_14",
+      "group": "CarPaint",
+      "price": 800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_14"
+      },
+      "item_id": 10404
+    },
+    {
+      "str_id": "Primitive_15",
+      "group": "CarPaint",
+      "price": 800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_15"
+      },
+      "item_id": 10405
+    },
+    {
+      "str_id": "Primitive_17",
+      "group": "CarPaint",
+      "price": 800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_17"
+      },
+      "item_id": 10406
+    },
+    {
+      "str_id": "Primitive_21",
+      "group": "CarPaint",
+      "price": 9,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_21"
+      },
+      "item_id": 10407
+    },
+    {
+      "str_id": "Primitive_22",
+      "group": "CarPaint",
+      "price": 800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_22"
+      },
+      "item_id": 10408
+    },
+    {
+      "str_id": "Primitive_3",
+      "group": "CarPaint",
+      "price": 0,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_3"
+      },
+      "item_id": 10409
+    },
+    {
+      "str_id": "Primitive_5",
+      "group": "CarPaint",
+      "price": 500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_5"
+      },
+      "item_id": 10410
+    },
+    {
+      "str_id": "Primitive_7",
+      "group": "CarPaint",
+      "price": 8,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_7"
+      },
+      "item_id": 10411
+    },
+    {
+      "str_id": "Primitive_8",
+      "group": "CarPaint",
+      "price": 800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Primitive/Primitive_8"
+      },
+      "item_id": 10412
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_1",
+      "group": "CarPaint",
+      "price": 1000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_1"
+      },
+      "item_id": 10413
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_10",
+      "group": "CarPaint",
+      "price": 1000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_10"
+      },
+      "item_id": 10414
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_11",
+      "group": "CarPaint",
+      "price": 8,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_11"
+      },
+      "item_id": 10415
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_12",
+      "group": "CarPaint",
+      "price": 1000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_12"
+      },
+      "item_id": 10416
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_13",
+      "group": "CarPaint",
+      "price": 12,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_13"
+      },
+      "item_id": 10417
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_16",
+      "group": "CarPaint",
+      "price": 1000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_16"
+      },
+      "item_id": 10418
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_20",
+      "group": "CarPaint",
+      "price": 1000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_20"
+      },
+      "item_id": 10419
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_21",
+      "group": "CarPaint",
+      "price": 1000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_21"
+      },
+      "item_id": 10420
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_22",
+      "group": "CarPaint",
+      "price": 18,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_22"
+      },
+      "item_id": 10421
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_3",
+      "group": "CarPaint",
+      "price": 1000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_3"
+      },
+      "item_id": 10422
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_4",
+      "group": "CarPaint",
+      "price": 1500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_4"
+      },
+      "item_id": 10423
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_5",
+      "group": "CarPaint",
+      "price": 1500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_5"
+      },
+      "item_id": 10424
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_6",
+      "group": "CarPaint",
+      "price": 1500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_6"
+      },
+      "item_id": 10425
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_8",
+      "group": "CarPaint",
+      "price": 1500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_8"
+      },
+      "item_id": 10426
+    },
+    {
+      "str_id": "Car_Vinyl_Aplication_9",
+      "group": "CarPaint",
+      "price": 1500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Aplication_9"
+      },
+      "item_id": 10427
+    },
+    {
+      "str_id": "Car_Vinyl_Blood_1",
+      "group": "CarPaint",
+      "price": 30,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Blood_1"
+      },
+      "item_id": 10428
+    },
+    {
+      "str_id": "Car_Vinyl_Blood_5",
+      "group": "CarPaint",
+      "price": 1500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Blood_5"
+      },
+      "item_id": 10429
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_10",
+      "group": "CarPaint",
+      "price": 1500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Fire_10"
+      },
+      "item_id": 10430
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_12",
+      "group": "CarPaint",
+      "price": 1500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Fire_12"
+      },
+      "item_id": 10431
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_22",
+      "group": "CarPaint",
+      "price": 1800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Fire_22"
+      },
+      "item_id": 10432
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_24",
+      "group": "CarPaint",
+      "price": 1800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Fire_24"
+      },
+      "item_id": 10433
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_3",
+      "group": "CarPaint",
+      "price": 1800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Fire_3"
+      },
+      "item_id": 10434
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_5",
+      "group": "CarPaint",
+      "price": 1800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Fire_5"
+      },
+      "item_id": 10435
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_6",
+      "group": "CarPaint",
+      "price": 1800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Fire_6"
+      },
+      "item_id": 10436
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_7",
+      "group": "CarPaint",
+      "price": 1800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Fire_7"
+      },
+      "item_id": 10437
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_8",
+      "group": "CarPaint",
+      "price": 1800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Fire_8"
+      },
+      "item_id": 10438
+    },
+    {
+      "str_id": "Car_Vinyl_Horizontal_1",
+      "group": "CarPaint",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Horizontal_1"
+      },
+      "item_id": 10439
+    },
+    {
+      "str_id": "Car_Vinyl_Horizontal_3",
+      "group": "CarPaint",
+      "price": 1800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Horizontal_3"
+      },
+      "item_id": 10440
+    },
+    {
+      "str_id": "Car_Vinyl_Horizontal_4",
+      "group": "CarPaint",
+      "price": 1800,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Horizontal_4"
+      },
+      "item_id": 10441
+    },
+    {
+      "str_id": "Car_Vinyl_Horizontal_6",
+      "group": "CarPaint",
+      "price": 2000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Horizontal_6"
+      },
+      "item_id": 10442
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_32",
+      "group": "CarPaint",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Symbol_32"
+      },
+      "item_id": 10443
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_4",
+      "group": "CarPaint",
+      "price": 2000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Symbol_4"
+      },
+      "item_id": 10444
+    },
+    {
+      "str_id": "Car_Vinyl_Trible_1",
+      "group": "CarPaint",
+      "price": 2000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Horizontal/Car_Vinyl_Trible_1"
+      },
+      "item_id": 10445
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_1",
+      "group": "CarPaint",
+      "price": 2000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_1"
+      },
+      "item_id": 10446
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_10",
+      "group": "CarPaint",
+      "price": 2000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_10"
+      },
+      "item_id": 10447
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_11",
+      "group": "CarPaint",
+      "price": 2000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_11"
+      },
+      "item_id": 10448
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_12",
+      "group": "CarPaint",
+      "price": 8,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_12"
+      },
+      "item_id": 10449
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_13",
+      "group": "CarPaint",
+      "price": 2000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_13"
+      },
+      "item_id": 10450
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_14",
+      "group": "CarPaint",
+      "price": 2000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_14"
+      },
+      "item_id": 10451
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_15",
+      "group": "CarPaint",
+      "price": 8,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_15"
+      },
+      "item_id": 10452
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_15_2",
+      "group": "CarPaint",
+      "price": 2000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_15_2"
+      },
+      "item_id": 10453
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_16",
+      "group": "CarPaint",
+      "price": 2500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_16"
+      },
+      "item_id": 10454
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_18",
+      "group": "CarPaint",
+      "price": 8,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_18"
+      },
+      "item_id": 10455
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_19",
+      "group": "CarPaint",
+      "price": 2500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_19"
+      },
+      "item_id": 10456
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_2",
+      "group": "CarPaint",
+      "price": 8,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_2"
+      },
+      "item_id": 10457
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_23",
+      "group": "CarPaint",
+      "price": 2500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_23"
+      },
+      "item_id": 10458
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_24",
+      "group": "CarPaint",
+      "price": 2500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_24"
+      },
+      "item_id": 10459
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_33",
+      "group": "CarPaint",
+      "price": 8,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_33"
+      },
+      "item_id": 10460
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_34",
+      "group": "CarPaint",
+      "price": 2500,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_34"
+      },
+      "item_id": 10461
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_35",
+      "group": "CarPaint",
+      "price": 3000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_35"
+      },
+      "item_id": 10462
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_36",
+      "group": "CarPaint",
+      "price": 3000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_36"
+      },
+      "item_id": 10463
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_8",
+      "group": "CarPaint",
+      "price": 3000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_8"
+      },
+      "item_id": 10464
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_9",
+      "group": "CarPaint",
+      "price": 3000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Symbol_9"
+      },
+      "item_id": 10465
+    },
+    {
+      "str_id": "Car_Vinyl_Trible_2",
+      "group": "CarPaint",
+      "price": 3000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Symbols/Car_Vinyl_Trible_2"
+      },
+      "item_id": 10466
+    },
+    {
+      "str_id": "Car_Vinyl_Animal_1",
+      "group": "CarPaint",
+      "price": 9,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Animals/Car_Vinyl_Animal_1"
+      },
+      "item_id": 10467
+    },
+    {
+      "str_id": "Car_Vinyl_Animal_10",
+      "group": "CarPaint",
+      "price": 9,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Animals/Car_Vinyl_Animal_10"
+      },
+      "item_id": 10468
+    },
+    {
+      "str_id": "Car_Vinyl_Animal_2",
+      "group": "CarPaint",
+      "price": 12,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Animals/Car_Vinyl_Animal_2"
+      },
+      "item_id": 10469
+    },
+    {
+      "str_id": "Car_Vinyl_Animal_3",
+      "group": "CarPaint",
+      "price": 20000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Animals/Car_Vinyl_Animal_3"
+      },
+      "item_id": 10470
+    },
+    {
+      "str_id": "Car_Vinyl_Animal_4",
+      "group": "CarPaint",
+      "price": 12,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Animals/Car_Vinyl_Animal_4"
+      },
+      "item_id": 10471
+    },
+    {
+      "str_id": "Car_Vinyl_Animal_5",
+      "group": "CarPaint",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Animals/Car_Vinyl_Animal_5"
+      },
+      "item_id": 10472
+    },
+    {
+      "str_id": "Car_Vinyl_Animal_6",
+      "group": "CarPaint",
+      "price": 12,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Animals/Car_Vinyl_Animal_6"
+      },
+      "item_id": 10473
+    },
+    {
+      "str_id": "Car_Vinyl_Animal_7",
+      "group": "CarPaint",
+      "price": 12,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Animals/Car_Vinyl_Animal_7"
+      },
+      "item_id": 10474
+    },
+    {
+      "str_id": "Car_Vinyl_Animal_8",
+      "group": "CarPaint",
+      "price": 9,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Animals/Car_Vinyl_Animal_8"
+      },
+      "item_id": 10475
+    },
+    {
+      "str_id": "Car_Vinyl_Animal_9",
+      "group": "CarPaint",
+      "price": 30000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Animals/Car_Vinyl_Animal_9"
+      },
+      "item_id": 10476
+    },
+    {
+      "str_id": "Car_Vinyl_Face_1",
+      "group": "CarPaint",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Face/Car_Vinyl_Face_1"
+      },
+      "item_id": 10477
+    },
+    {
+      "str_id": "Car_Vinyl_Face_2",
+      "group": "CarPaint",
+      "price": 18,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Face/Car_Vinyl_Face_2"
+      },
+      "item_id": 10478
+    },
+    {
+      "str_id": "Car_Vinyl_Face_3",
+      "group": "CarPaint",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Face/Car_Vinyl_Face_3"
+      },
+      "item_id": 10479
+    },
+    {
+      "str_id": "Car_Vinyl_Face_4",
+      "group": "CarPaint",
+      "price": 15000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Face/Car_Vinyl_Face_4"
+      },
+      "item_id": 10480
+    },
+    {
+      "str_id": "Car_Vinyl_Face_5",
+      "group": "CarPaint",
+      "price": 30000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Face/Car_Vinyl_Face_5"
+      },
+      "item_id": 10481
+    },
+    {
+      "str_id": "Car_Vinyl_Face_6",
+      "group": "CarPaint",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Face/Car_Vinyl_Face_6"
+      },
+      "item_id": 10482
+    },
+    {
+      "str_id": "Car_Vinyl_Face_7",
+      "group": "CarPaint",
+      "price": 15000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Face/Car_Vinyl_Face_7"
+      },
+      "item_id": 10483
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_1",
+      "group": "CarPaint",
+      "price": 18,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Fire/Car_Vinyl_Fire_1"
+      },
+      "item_id": 10484
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_2",
+      "group": "CarPaint",
+      "price": 18000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Fire/Car_Vinyl_Fire_2"
+      },
+      "item_id": 10485
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_20",
+      "group": "CarPaint",
+      "price": 30,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Fire/Car_Vinyl_Fire_20"
+      },
+      "item_id": 10486
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_21",
+      "group": "CarPaint",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Fire/Car_Vinyl_Fire_21"
+      },
+      "item_id": 10487
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_23",
+      "group": "CarPaint",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Fire/Car_Vinyl_Fire_23"
+      },
+      "item_id": 10488
+    },
+    {
+      "str_id": "Car_Vinyl_Fire_25",
+      "group": "CarPaint",
+      "price": 15000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Fire/Car_Vinyl_Fire_25"
+      },
+      "item_id": 10489
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_1",
+      "group": "CarPaint",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_1"
+      },
+      "item_id": 10490
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_10",
+      "group": "CarPaint",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_10"
+      },
+      "item_id": 10491
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_11",
+      "group": "CarPaint",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_11"
+      },
+      "item_id": 10492
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_12",
+      "group": "CarPaint",
+      "price": 25,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_12"
+      },
+      "item_id": 10493
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_13",
+      "group": "CarPaint",
+      "price": 30000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_13"
+      },
+      "item_id": 10494
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_14",
+      "group": "CarPaint",
+      "price": 18,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_14"
+      },
+      "item_id": 10495
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_15",
+      "group": "CarPaint",
+      "price": 12000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_15"
+      },
+      "item_id": 10496
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_17",
+      "group": "CarPaint",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_17"
+      },
+      "item_id": 10497
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_18",
+      "group": "CarPaint",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_18"
+      },
+      "item_id": 10498
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_19",
+      "group": "CarPaint",
+      "price": 30,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_19"
+      },
+      "item_id": 10499
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_2",
+      "group": "CarPaint",
+      "price": 12000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_2"
+      },
+      "item_id": 10500
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_3",
+      "group": "CarPaint",
+      "price": 12,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_3"
+      },
+      "item_id": 10501
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_4",
+      "group": "CarPaint",
+      "price": 12,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_4"
+      },
+      "item_id": 10502
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_5",
+      "group": "CarPaint",
+      "price": 12,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_5"
+      },
+      "item_id": 10503
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_6",
+      "group": "CarPaint",
+      "price": 15000,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_6"
+      },
+      "item_id": 10504
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_7",
+      "group": "CarPaint",
+      "price": 12,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_7"
+      },
+      "item_id": 10505
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_8",
+      "group": "CarPaint",
+      "price": 18000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_8"
+      },
+      "item_id": 10506
+    },
+    {
+      "str_id": "Car_Vinyl_Meme_9",
+      "group": "CarPaint",
+      "price": 12,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Meme_9"
+      },
+      "item_id": 10507
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_21",
+      "group": "CarPaint",
+      "price": 30000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Symbol_21"
+      },
+      "item_id": 10508
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_26",
+      "group": "CarPaint",
+      "price": 18,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Symbol_26"
+      },
+      "item_id": 10509
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_28",
+      "group": "CarPaint",
+      "price": 18,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Symbol_28"
+      },
+      "item_id": 10510
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_29",
+      "group": "CarPaint",
+      "price": 18,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Symbol_29"
+      },
+      "item_id": 10511
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_30",
+      "group": "CarPaint",
+      "price": 25000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Meme/Car_Vinyl_Symbol_30"
+      },
+      "item_id": 10512
+    },
+    {
+      "str_id": "Car_Vinyl_Blood_2",
+      "group": "CarPaint",
+      "price": 18000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Sharps/Car_Vinyl_Blood_2"
+      },
+      "item_id": 10513
+    },
+    {
+      "str_id": "Car_Vinyl_Blood_4",
+      "group": "CarPaint",
+      "price": 18000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Sharps/Car_Vinyl_Blood_4"
+      },
+      "item_id": 10514
+    },
+    {
+      "str_id": "Car_Vinyl_Symbol_31",
+      "group": "CarPaint",
+      "price": 8,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Sharps/Car_Vinyl_Symbol_31"
+      },
+      "item_id": 10515
+    },
+    {
+      "str_id": "Car_Vinyl_Scull_1",
+      "group": "CarPaint",
+      "price": 30,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Skulls/Car_Vinyl_Scull_1"
+      },
+      "item_id": 10516
+    },
+    {
+      "str_id": "Car_Vinyl_Scull_3",
+      "group": "CarPaint",
+      "price": 30,
+      "currency": "diamonds",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Skulls/Car_Vinyl_Scull_3"
+      },
+      "item_id": 10517
+    },
+    {
+      "str_id": "Car_Vinyl_Scull_4",
+      "group": "CarPaint",
+      "price": 30000,
+      "currency": "coins",
+      "consumable": false,
+      "data": {
+        "vinyl": true,
+        "path": "CarPaint/Skulls/Car_Vinyl_Scull_4"
+      },
+      "item_id": 10518
+    },
+    {
+      "str_id": "Player_Ak47",
+      "group": "UserWeapone",
+      "price": 20,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {
+        "buy_bullets": 120,
+        "buy_if_lover": 120,
+        "max_local_bullets": 120
+      },
+      "item_id": 10519
+    },
+    {
+      "str_id": "Player_BombMagnet",
+      "group": "UserWeapone",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {
+        "buy_bullets": 10,
+        "buy_if_lover": 10,
+        "max_local_bullets": 10
+      },
+      "item_id": 10520
+    },
+    {
+      "str_id": "Player_Deagle",
+      "group": "UserWeapone",
+      "price": 10,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {
+        "buy_bullets": 50,
+        "buy_if_lover": 50,
+        "max_local_bullets": 50
+      },
+      "item_id": 10521
+    },
+    {
+      "str_id": "Player_Famas",
+      "group": "UserWeapone",
+      "price": 15000,
+      "currency": "coins",
+      "consumable": true,
+      "data": {
+        "buy_bullets": 100,
+        "buy_if_lover": 100,
+        "max_local_bullets": 100
+      },
+      "item_id": 10522
+    },
+    {
+      "str_id": "Player_M4A1",
+      "group": "UserWeapone",
+      "price": 15,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {
+        "buy_bullets": 130,
+        "buy_if_lover": 130,
+        "max_local_bullets": 130
+      },
+      "item_id": 10523
+    },
+    {
+      "str_id": "Player_MP5",
+      "group": "UserWeapone",
+      "price": 7,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {
+        "buy_bullets": 130,
+        "buy_if_lover": 130,
+        "max_local_bullets": 130
+      },
+      "item_id": 10524
+    },
+    {
+      "str_id": "Player_Pistol",
+      "group": "UserWeapone",
+      "price": 3000,
+      "currency": "coins",
+      "consumable": true,
+      "data": {
+        "buy_bullets": 50,
+        "buy_if_lover": 50,
+        "max_local_bullets": 50
+      },
+      "item_id": 10525
+    },
+    {
+      "str_id": "Player_Bison",
+      "group": "UserWeapone",
+      "price": 10,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {
+        "buy_bullets": 120,
+        "buy_if_lover": 120,
+        "max_local_bullets": 120
+      },
+      "item_id": 10526
+    },
+    {
+      "str_id": "Player_Usp",
+      "group": "UserWeapone",
+      "price": 5,
+      "currency": "diamonds",
+      "consumable": true,
+      "data": {
+        "buy_bullets": 50,
+        "buy_if_lover": 50,
+        "max_local_bullets": 50
+      },
+      "item_id": 10527
+    },
+    {
+      "str_id": "Player_Uzi",
+      "group": "UserWeapone",
+      "price": 7000,
+      "currency": "coins",
+      "consumable": true,
+      "data": {
+        "buy_bullets": 90,
+        "buy_if_lover": 90,
+        "max_local_bullets": 90
+      },
+      "item_id": 10528
+    }
+  ],
+  "pricing": "desktop_9.4_and_tuning_fallback_20_diamonds"
+}

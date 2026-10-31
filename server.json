@@ -1,0 +1,7 @@
+{
+  "listen_host": "0.0.0.0",
+  "listen_port": 10118,
+  "database": "data/accounts.sqlite3",
+  "catalog_directory": "data",
+  "new_account": { "coins": 10000000, "diamonds": 10000 }
+}

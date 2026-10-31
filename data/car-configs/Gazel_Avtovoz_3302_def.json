@@ -1,0 +1,143 @@
+{
+  "v": 2,
+  "carName": "Gazel_Avtovoz_3302",
+  "engine": "Engine_120",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_10",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 34.0,
+      "width": 28.0,
+      "tire": "Tire_10",
+      "tireSize": 11.1,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_11",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 34.0,
+      "width": 56.0,
+      "tire": "Tire_11",
+      "tireSize": 10.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "doors",
+      "color": "#FFF7E0FF",
+      "metallic": 0.85,
+      "gloss": 0.87
+    },
+    {
+      "name": "hood",
+      "color": "#FFF7E0FF",
+      "metallic": 0.85,
+      "gloss": 0.87
+    },
+    {
+      "name": "body",
+      "color": "#FFF7E0FF",
+      "metallic": 0.85,
+      "gloss": 0.87
+    },
+    {
+      "name": "plastic body",
+      "color": "#1E1E1EFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "mid",
+      "color": "#8383830A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#l",
+      "color": "#8383830A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back",
+      "color": "#000000A3",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#8383830A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000FF",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "BWD",
+  "upgrades": []
+}

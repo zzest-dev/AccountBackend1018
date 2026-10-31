@@ -1,0 +1,156 @@
+{
+  "v": 2,
+  "carName": "MercedesGG",
+  "engine": "Engine_300",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_27",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#919191FF",
+          "metallic": 0.94,
+          "gloss": 0.79
+        },
+        {
+          "name": "ray",
+          "color": "#434343FF",
+          "metallic": 0.76,
+          "gloss": 0.84
+        },
+        {
+          "name": "ray 2",
+          "color": "#DFDFDFFF",
+          "metallic": 0.81,
+          "gloss": 0.91
+        }
+      ],
+      "rad": 34.0,
+      "width": 31.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_27",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#919191FF",
+          "metallic": 0.94,
+          "gloss": 0.79
+        },
+        {
+          "name": "ray",
+          "color": "#434343FF",
+          "metallic": 0.76,
+          "gloss": 0.84
+        },
+        {
+          "name": "ray 2",
+          "color": "#DFDFDFFF",
+          "metallic": 0.81,
+          "gloss": 0.91
+        }
+      ],
+      "rad": 34.0,
+      "width": 31.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "body",
+      "color": "#A8A8A8FF",
+      "metallic": 0.85,
+      "gloss": 0.8
+    },
+    {
+      "name": "doors",
+      "color": "#A8A8A8FF",
+      "metallic": 0.85,
+      "gloss": 0.8
+    },
+    {
+      "name": "trunk",
+      "color": "#A8A8A8FF",
+      "metallic": 0.85,
+      "gloss": 0.8
+    },
+    {
+      "name": "hood",
+      "color": "#A8A8A8FF",
+      "metallic": 0.85,
+      "gloss": 0.8
+    },
+    {
+      "name": "back",
+      "color": "#00000099",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#5151510A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#5151510A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#6E6E6E75",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "kengurin",
+      "color": "#686868FF",
+      "metallic": 0.27,
+      "gloss": 0.81
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "AWD",
+  "upgrades": [
+    {
+      "key": "Spare_Wheel",
+      "use": "1"
+    },
+    {
+      "key": "Police",
+      "use": "No"
+    },
+    {
+      "key": "Kengurin",
+      "use": "1"
+    }
+  ]
+}

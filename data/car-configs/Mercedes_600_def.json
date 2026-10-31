@@ -1,0 +1,142 @@
+{
+  "v": 2,
+  "carName": "Mercedes_600",
+  "engine": "Engine_200",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_1",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 34.0,
+      "width": 30.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_1",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 34.0,
+      "width": 30.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "front#b",
+      "color": "#396189FF",
+      "metallic": 0.96,
+      "gloss": 0.93
+    },
+    {
+      "name": "back#b",
+      "color": "#396189FF",
+      "metallic": 0.96,
+      "gloss": 0.93
+    },
+    {
+      "name": "doors",
+      "color": "#396189FF",
+      "metallic": 0.96,
+      "gloss": 0.93
+    },
+    {
+      "name": "trunk",
+      "color": "#396189FF",
+      "metallic": 0.96,
+      "gloss": 0.93
+    },
+    {
+      "name": "hood",
+      "color": "#396189FF",
+      "metallic": 0.96,
+      "gloss": 0.93
+    },
+    {
+      "name": "body",
+      "color": "#396189FF",
+      "metallic": 0.96,
+      "gloss": 0.93
+    },
+    {
+      "name": "mid",
+      "color": "#5B5B5B0A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back",
+      "color": "#29292991",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#5B5B5B0A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000C2",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "BWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    }
+  ]
+}

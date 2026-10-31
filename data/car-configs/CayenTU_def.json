@@ -1,0 +1,167 @@
+{
+  "v": 2,
+  "carName": "CayenTU",
+  "engine": "Engine_330",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_1",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#575757FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#464646FF",
+          "metallic": 0.83,
+          "gloss": 0.95
+        },
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 35.0,
+      "width": 35.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_1",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#575757FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#464646FF",
+          "metallic": 0.83,
+          "gloss": 0.95
+        },
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 35.0,
+      "width": 40.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "body",
+      "color": "#6A3700FF",
+      "metallic": 0.91,
+      "gloss": 0.87
+    },
+    {
+      "name": "back#b",
+      "color": "#6A3700FF",
+      "metallic": 0.91,
+      "gloss": 0.87
+    },
+    {
+      "name": "front#b",
+      "color": "#6A3700FF",
+      "metallic": 0.91,
+      "gloss": 0.87
+    },
+    {
+      "name": "trunk",
+      "color": "#6A3700FF",
+      "metallic": 0.91,
+      "gloss": 0.87
+    },
+    {
+      "name": "hood",
+      "color": "#6A3700FF",
+      "metallic": 0.91,
+      "gloss": 0.87
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back#w",
+      "color": "#000000DB",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid#w",
+      "color": "#9F9F9F5C",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "top",
+      "color": "#000000E3",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#9F9F9F5C",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000E8",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "doors",
+      "color": "#6A3700FF",
+      "metallic": 0.91,
+      "gloss": 0.87
+    },
+    {
+      "name": "front#l",
+      "color": "#FBFBFB08",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back#l",
+      "color": "#5D53470D",
+      "metallic": 0.85,
+      "gloss": 0.95
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "AWD",
+  "upgrades": []
+}

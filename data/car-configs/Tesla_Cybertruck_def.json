@@ -1,0 +1,154 @@
+{
+  "v": 2,
+  "carName": "Tesla_Cybertruck",
+  "engine": "Engine_500",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_15",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#6E6E6EFF",
+          "metallic": 1.0,
+          "gloss": 0.92
+        },
+        {
+          "name": "disc",
+          "color": "#6E6E6EFF",
+          "metallic": 1.0,
+          "gloss": 0.92
+        },
+        {
+          "name": "ray",
+          "color": "#6E6E6EFF",
+          "metallic": 1.0,
+          "gloss": 0.92
+        }
+      ],
+      "rad": 40.0,
+      "width": 36.0,
+      "tire": "Tire_15",
+      "tireSize": 8.4,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_15",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#6E6E6EFF",
+          "metallic": 1.0,
+          "gloss": 0.92
+        },
+        {
+          "name": "disc",
+          "color": "#6E6E6EFF",
+          "metallic": 1.0,
+          "gloss": 0.92
+        },
+        {
+          "name": "ray",
+          "color": "#6E6E6EFF",
+          "metallic": 1.0,
+          "gloss": 0.92
+        }
+      ],
+      "rad": 40.0,
+      "width": 36.0,
+      "tire": "Tire_15",
+      "tireSize": 8.4,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back",
+      "color": "#00000087",
+      "metallic": 0.95,
+      "gloss": 0.99
+    },
+    {
+      "name": "front",
+      "color": "#4848481C",
+      "metallic": 0.95,
+      "gloss": 0.99
+    },
+    {
+      "name": "back#b",
+      "color": "#2F343BFF",
+      "metallic": 0.8,
+      "gloss": 0.8
+    },
+    {
+      "name": "front#b",
+      "color": "#2F343BFF",
+      "metallic": 0.7999893,
+      "gloss": 0.7957617
+    },
+    {
+      "name": "trunk",
+      "color": "#626465FF",
+      "metallic": 0.78,
+      "gloss": 1.0
+    },
+    {
+      "name": "hood",
+      "color": "#626465FF",
+      "metallic": 0.78,
+      "gloss": 1.0
+    },
+    {
+      "name": "body",
+      "color": "#626465FF",
+      "metallic": 0.78,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#4E4E4E1C",
+      "metallic": 0.95,
+      "gloss": 0.99
+    },
+    {
+      "name": "doors",
+      "color": "#626465FF",
+      "metallic": 0.78,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000B8",
+      "metallic": 0.95,
+      "gloss": 0.99
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": ""
+  },
+  "WD": "AWD",
+  "upgrades": [
+    {
+      "key": "Details",
+      "use": "No"
+    }
+  ]
+}

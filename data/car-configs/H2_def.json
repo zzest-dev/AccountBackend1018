@@ -1,0 +1,158 @@
+{
+  "v": 2,
+  "carName": "H2",
+  "engine": "Engine_300",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_25",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#7F7F7FFF",
+          "metallic": 0.87,
+          "gloss": 0.86
+        },
+        {
+          "name": "ray",
+          "color": "#ACACACFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray 2",
+          "color": "#272727FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 37.0,
+      "width": 38.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_25",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#7F7F7FFF",
+          "metallic": 0.87,
+          "gloss": 0.86
+        },
+        {
+          "name": "ray",
+          "color": "#ACACACFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray 2",
+          "color": "#272727FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 37.0,
+      "width": 38.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "doors",
+      "color": "#FFEF10FF",
+      "metallic": 0.63,
+      "gloss": 0.76
+    },
+    {
+      "name": "trunk",
+      "color": "#FFEF10FF",
+      "metallic": 0.63,
+      "gloss": 0.76
+    },
+    {
+      "name": "body",
+      "color": "#FFEF10FF",
+      "metallic": 0.63,
+      "gloss": 0.76
+    },
+    {
+      "name": "detail",
+      "color": "#373737FF",
+      "metallic": 0.96,
+      "gloss": 0.75
+    },
+    {
+      "name": "back",
+      "color": "#0000008A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#9696960D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#9696960D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000E3",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "hood",
+      "color": "#FFEF10FF",
+      "metallic": 0.63,
+      "gloss": 0.76
+    },
+    {
+      "name": "around#n",
+      "color": "#000000FF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "AWD",
+  "upgrades": [
+    {
+      "key": "Karkas",
+      "use": "No"
+    },
+    {
+      "key": "Side skirt",
+      "use": "No"
+    }
+  ]
+}

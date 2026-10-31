@@ -1,0 +1,160 @@
+{
+  "v": 2,
+  "carName": "Panamera",
+  "engine": "Engine_330",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_27",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#373737FF",
+          "metallic": 0.83,
+          "gloss": 0.84
+        },
+        {
+          "name": "ray 2",
+          "color": "#4A4A4AFF",
+          "metallic": 0.82,
+          "gloss": 0.76
+        }
+      ],
+      "rad": 35.0,
+      "width": 35.0,
+      "tire": "Tire_20",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_27",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#373737FF",
+          "metallic": 0.83,
+          "gloss": 0.84
+        },
+        {
+          "name": "ray 2",
+          "color": "#4A4A4AFF",
+          "metallic": 0.82,
+          "gloss": 0.76
+        }
+      ],
+      "rad": 35.0,
+      "width": 40.0,
+      "tire": "Tire_20",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#b",
+      "color": "#2F49A0FF",
+      "metallic": 0.89,
+      "gloss": 0.91
+    },
+    {
+      "name": "front#b",
+      "color": "#2F49A0FF",
+      "metallic": 0.89,
+      "gloss": 0.91
+    },
+    {
+      "name": "doors",
+      "color": "#2F49A0FF",
+      "metallic": 0.89,
+      "gloss": 0.91
+    },
+    {
+      "name": "trunk",
+      "color": "#2F49A0FF",
+      "metallic": 0.89,
+      "gloss": 0.91
+    },
+    {
+      "name": "hood",
+      "color": "#2F49A0FF",
+      "metallic": 0.89,
+      "gloss": 0.91
+    },
+    {
+      "name": "body",
+      "color": "#2F49A0FF",
+      "metallic": 0.89,
+      "gloss": 0.91
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back",
+      "color": "#00000042",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#326DA708",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#68686808",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000C9",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#l",
+      "color": "#326DA708",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "AWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    }
+  ]
+}

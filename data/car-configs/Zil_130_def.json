@@ -1,0 +1,156 @@
+{
+  "v": 2,
+  "carName": "Zil_130",
+  "engine": "Engine_80_Tractor",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_16",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 44.0,
+      "width": 29.0,
+      "tire": "Tire_16",
+      "tireSize": 13.9,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_17",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 44.0,
+      "width": 56.0,
+      "tire": "Tire_17",
+      "tireSize": 14.4,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "body",
+      "color": "#4C4C49FF",
+      "metallic": 0.5,
+      "gloss": 0.6
+    },
+    {
+      "name": "hood",
+      "color": "#4C4C49FF",
+      "metallic": 0.5,
+      "gloss": 0.6
+    },
+    {
+      "name": "doors",
+      "color": "#4C4C49FF",
+      "metallic": 0.5,
+      "gloss": 0.6
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "trunk",
+      "color": "#4C4C49FF",
+      "metallic": 0.5,
+      "gloss": 0.6
+    },
+    {
+      "name": "mid",
+      "color": "#EAEAEA0D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back",
+      "color": "#EAEAEA0D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#EAEAEA0D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "Kuzov",
+      "color": "#4C4C49FF",
+      "metallic": 0.5,
+      "gloss": 0.6
+    },
+    {
+      "name": "greed",
+      "color": "#B3B3B3FF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": ""
+  },
+  "WD": "BWD",
+  "upgrades": [
+    {
+      "key": "Cuzova",
+      "use": "Kuzov_Pickup"
+    },
+    {
+      "key": "Kuzov",
+      "use": "No"
+    },
+    {
+      "key": "Gaz",
+      "use": "No"
+    }
+  ]
+}

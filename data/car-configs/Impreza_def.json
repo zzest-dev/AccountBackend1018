@@ -1,0 +1,166 @@
+{
+  "v": 2,
+  "carName": "Impreza",
+  "engine": "Engine_330",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_27",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#2E2E2EFF",
+          "metallic": 0.78,
+          "gloss": 0.84
+        },
+        {
+          "name": "ray 2",
+          "color": "#818181FF",
+          "metallic": 0.8,
+          "gloss": 0.72
+        }
+      ],
+      "rad": 32.0,
+      "width": 29.0,
+      "tire": "Tire_20",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_27",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#2E2E2EFF",
+          "metallic": 0.78,
+          "gloss": 0.84
+        },
+        {
+          "name": "ray 2",
+          "color": "#818181FF",
+          "metallic": 0.8,
+          "gloss": 0.72
+        }
+      ],
+      "rad": 32.0,
+      "width": 29.0,
+      "tire": "Tire_20",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back#b",
+      "color": "#752424FF",
+      "metallic": 0.58,
+      "gloss": 0.85
+    },
+    {
+      "name": "front#b",
+      "color": "#752424FF",
+      "metallic": 0.58,
+      "gloss": 0.85
+    },
+    {
+      "name": "doors",
+      "color": "#752424FF",
+      "metallic": 0.58,
+      "gloss": 0.85
+    },
+    {
+      "name": "trunk",
+      "color": "#752424FF",
+      "metallic": 0.58,
+      "gloss": 0.85
+    },
+    {
+      "name": "hood",
+      "color": "#752424FF",
+      "metallic": 0.58,
+      "gloss": 0.85
+    },
+    {
+      "name": "body",
+      "color": "#752424FF",
+      "metallic": 0.58,
+      "gloss": 0.85
+    },
+    {
+      "name": "back",
+      "color": "#2D2D2D57",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#69696905",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back#l",
+      "color": "#69696905",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#69696905",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000C4",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#l",
+      "color": "#69696905",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "AWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    }
+  ]
+}

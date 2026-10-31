@@ -1,0 +1,21 @@
+name: Windows build
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+      - run: dotnet publish src/AccountBackend -c Release -r win-x64 --self-contained true -o dist/windows
+      - uses: actions/upload-artifact@v4
+        with:
+          name: AccountBackend1018-Windows-x64
+          path: dist/windows/
+          if-no-files-found: error

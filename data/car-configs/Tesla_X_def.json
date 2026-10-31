@@ -1,0 +1,179 @@
+{
+  "v": 2,
+  "carName": "Tesla_X",
+  "engine": "Engine_500",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_35",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "support",
+          "color": "#3C3C3CFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#757575FF",
+          "metallic": 0.65,
+          "gloss": 0.79
+        }
+      ],
+      "rad": 36.0,
+      "width": 32.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_35",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "support",
+          "color": "#3C3C3CFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#757575FF",
+          "metallic": 0.65,
+          "gloss": 0.79
+        }
+      ],
+      "rad": 36.0,
+      "width": 36.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "front#b",
+      "color": "#191957FF",
+      "metallic": 0.79,
+      "gloss": 0.87
+    },
+    {
+      "name": "back#b",
+      "color": "#191957FF",
+      "metallic": 0.79,
+      "gloss": 0.87
+    },
+    {
+      "name": "doors#b",
+      "color": "#191957FF",
+      "metallic": 0.79,
+      "gloss": 0.87
+    },
+    {
+      "name": "trunk#b",
+      "color": "#191957FF",
+      "metallic": 0.79,
+      "gloss": 0.87
+    },
+    {
+      "name": "body#b",
+      "color": "#191957FF",
+      "metallic": 0.79,
+      "gloss": 0.87
+    },
+    {
+      "name": "front",
+      "color": "#7474740A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#7474740A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back",
+      "color": "#000000B2",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#l",
+      "color": "#7474740A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back#l",
+      "color": "#7474740A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000D4",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "salon",
+      "color": "#FFFFFFFF",
+      "metallic": 0.8,
+      "gloss": 0.25
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "around#n",
+      "color": "#000000FF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "text#n",
+      "color": "#000000FF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "hood",
+      "color": "#191957FF",
+      "metallic": 0.79,
+      "gloss": 0.87
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": ""
+  },
+  "WD": "AWD",
+  "upgrades": []
+}

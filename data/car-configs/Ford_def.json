@@ -1,0 +1,160 @@
+{
+  "v": 2,
+  "carName": "Ford",
+  "engine": "Engine_200",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_18",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 33.0,
+      "width": 28.0,
+      "tire": "Tire_0",
+      "tireSize": 5.50761032,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_18",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 33.0,
+      "width": 28.0,
+      "tire": "Tire_0",
+      "tireSize": 5.50761032,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back#b",
+      "color": "#817C17FF",
+      "metallic": 0.79,
+      "gloss": 0.78
+    },
+    {
+      "name": "front#b",
+      "color": "#817C17FF",
+      "metallic": 0.79,
+      "gloss": 0.78
+    },
+    {
+      "name": "doors#b",
+      "color": "#817C17FF",
+      "metallic": 0.79,
+      "gloss": 0.78
+    },
+    {
+      "name": "trunk",
+      "color": "#817C17FF",
+      "metallic": 0.79,
+      "gloss": 0.78
+    },
+    {
+      "name": "hood",
+      "color": "#817C17FF",
+      "metallic": 0.79,
+      "gloss": 0.78
+    },
+    {
+      "name": "body",
+      "color": "#817C17FF",
+      "metallic": 0.79,
+      "gloss": 0.78
+    },
+    {
+      "name": "back#w",
+      "color": "#2D2D2DB8",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#8C8C8C1F",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#2D2D2DD4",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid#w",
+      "color": "#5B5B5B08",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#l",
+      "color": "#FFFFFF0F",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "BWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    }
+  ]
+}

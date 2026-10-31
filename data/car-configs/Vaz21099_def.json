@@ -1,0 +1,196 @@
+{
+  "v": 2,
+  "carName": "Vaz21099",
+  "engine": "Engine_70",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_25",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray1",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray2",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "center",
+          "color": "#FFEE00FF",
+          "metallic": 0.5,
+          "gloss": 0.8
+        },
+        {
+          "name": "ray 2",
+          "color": "#FFFFFFFF",
+          "metallic": 0.8,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 26.0,
+      "width": 30.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_25",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray1",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray2",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "center",
+          "color": "#FFEE00FF",
+          "metallic": 0.5,
+          "gloss": 0.8
+        },
+        {
+          "name": "ray 2",
+          "color": "#FFFFFFFF",
+          "metallic": 0.8,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 26.0,
+      "width": 30.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "doors",
+      "color": "#AA8F00FF",
+      "metallic": 0.45,
+      "gloss": 0.54
+    },
+    {
+      "name": "trunk",
+      "color": "#AA8F00FF",
+      "metallic": 0.45,
+      "gloss": 0.54
+    },
+    {
+      "name": "hood",
+      "color": "#AA8F00FF",
+      "metallic": 0.45,
+      "gloss": 0.54
+    },
+    {
+      "name": "body",
+      "color": "#AA8F00FF",
+      "metallic": 0.45,
+      "gloss": 0.54
+    },
+    {
+      "name": "mid",
+      "color": "#36360047",
+      "metallic": 0.82,
+      "gloss": 0.74
+    },
+    {
+      "name": "back",
+      "color": "#36360047",
+      "metallic": 0.82,
+      "gloss": 0.74
+    },
+    {
+      "name": "front",
+      "color": "#36360047",
+      "metallic": 0.82,
+      "gloss": 0.74
+    },
+    {
+      "name": "front up",
+      "color": "#FFFFFF66",
+      "metallic": 0.82,
+      "gloss": 0.74
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "text#n",
+      "color": "#000000FF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "FWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    }
+  ]
+}

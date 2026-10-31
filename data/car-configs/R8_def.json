@@ -1,0 +1,149 @@
+{
+  "v": 2,
+  "carName": "R8",
+  "engine": "Engine_500",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_1",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 32.0,
+      "width": 33.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_1",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 32.0,
+      "width": 37.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "front",
+      "color": "#4E4E4E08",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#4E4E4E08",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back#b",
+      "color": "#FF0000FF",
+      "metallic": 0.75,
+      "gloss": 0.88
+    },
+    {
+      "name": "front#b",
+      "color": "#FF0000FF",
+      "metallic": 0.75,
+      "gloss": 0.88
+    },
+    {
+      "name": "doors",
+      "color": "#FF0000FF",
+      "metallic": 0.75,
+      "gloss": 0.88
+    },
+    {
+      "name": "trunk",
+      "color": "#FF0000FF",
+      "metallic": 0.75,
+      "gloss": 0.88
+    },
+    {
+      "name": "hood",
+      "color": "#FF0000FF",
+      "metallic": 0.75,
+      "gloss": 0.88
+    },
+    {
+      "name": "body",
+      "color": "#FF0000FF",
+      "metallic": 0.75,
+      "gloss": 0.88
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back",
+      "color": "#4E4E4E73",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000D1",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back#l",
+      "color": "#ADADAD08",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#l",
+      "color": "#B1B1B108",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": ""
+  },
+  "WD": "AWD",
+  "upgrades": []
+}

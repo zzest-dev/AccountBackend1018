@@ -1,0 +1,149 @@
+{
+  "v": 2,
+  "carName": "Q7",
+  "engine": "Engine_200",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_26",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray1",
+          "color": "#915555FF",
+          "metallic": 0.86,
+          "gloss": 0.77
+        }
+      ],
+      "rad": 41.31,
+      "width": 35.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_26",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray1",
+          "color": "#915555FF",
+          "metallic": 0.86,
+          "gloss": 0.77
+        }
+      ],
+      "rad": 41.31,
+      "width": 35.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "body",
+      "color": "#4D0000FF",
+      "metallic": 0.61,
+      "gloss": 0.83
+    },
+    {
+      "name": "back",
+      "color": "#31313108",
+      "metallic": 0.88,
+      "gloss": 0.79
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back#b",
+      "color": "#4D0000FF",
+      "metallic": 0.61,
+      "gloss": 0.83
+    },
+    {
+      "name": "front#b",
+      "color": "#4D0000FF",
+      "metallic": 0.61,
+      "gloss": 0.83
+    },
+    {
+      "name": "doors",
+      "color": "#4D0000FF",
+      "metallic": 0.61,
+      "gloss": 0.83
+    },
+    {
+      "name": "trunk",
+      "color": "#4D0000FF",
+      "metallic": 0.61,
+      "gloss": 0.83
+    },
+    {
+      "name": "hood",
+      "color": "#4D0000FF",
+      "metallic": 0.61,
+      "gloss": 0.83
+    },
+    {
+      "name": "mid",
+      "color": "#7E6A6A14",
+      "metallic": 0.88,
+      "gloss": 0.79
+    },
+    {
+      "name": "back#l",
+      "color": "#6F6F6F0A",
+      "metallic": 0.96,
+      "gloss": 0.88
+    },
+    {
+      "name": "front",
+      "color": "#63525214",
+      "metallic": 0.88,
+      "gloss": 0.79
+    },
+    {
+      "name": "front up",
+      "color": "#00000057",
+      "metallic": 0.88,
+      "gloss": 0.79
+    },
+    {
+      "name": "front#l",
+      "color": "#6F6F6F0A",
+      "metallic": 0.96,
+      "gloss": 0.88
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": ""
+  },
+  "WD": "AWD",
+  "upgrades": []
+}

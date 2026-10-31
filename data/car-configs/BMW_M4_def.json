@@ -1,0 +1,154 @@
+{
+  "v": 2,
+  "carName": "BMW_M4",
+  "engine": "Engine_330",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_14",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 34.0,
+      "width": 30.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_14",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 34.0,
+      "width": 33.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "front#b",
+      "color": "#BDB513FF",
+      "metallic": 0.96,
+      "gloss": 0.93
+    },
+    {
+      "name": "back#b",
+      "color": "#BDB513FF",
+      "metallic": 0.96,
+      "gloss": 0.93
+    },
+    {
+      "name": "doors#doors",
+      "color": "#BDB513FF",
+      "metallic": 0.96,
+      "gloss": 0.93
+    },
+    {
+      "name": "trunk",
+      "color": "#BDB513FF",
+      "metallic": 0.96,
+      "gloss": 0.93
+    },
+    {
+      "name": "hood",
+      "color": "#BDB513FF",
+      "metallic": 0.96,
+      "gloss": 0.93
+    },
+    {
+      "name": "body",
+      "color": "#BDB513FF",
+      "metallic": 0.96,
+      "gloss": 0.93
+    },
+    {
+      "name": "mid#windows",
+      "color": "#7171710A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back#win",
+      "color": "#0000008F",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#win",
+      "color": "#7171710A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000D1",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "BWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    }
+  ]
+}

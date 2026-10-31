@@ -1,0 +1,167 @@
+{
+  "v": 2,
+  "carName": "BMW_X5",
+  "engine": "Engine_330",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_21",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "center",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 37.0,
+      "width": 33.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_21",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "center",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 37.0,
+      "width": 40.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back#b",
+      "color": "#000000FF",
+      "metallic": 0.78,
+      "gloss": 0.79
+    },
+    {
+      "name": "front#b",
+      "color": "#000000FF",
+      "metallic": 0.78,
+      "gloss": 0.79
+    },
+    {
+      "name": "doors#b",
+      "color": "#000000FF",
+      "metallic": 0.78,
+      "gloss": 0.79
+    },
+    {
+      "name": "trunk",
+      "color": "#000000FF",
+      "metallic": 0.78,
+      "gloss": 0.79
+    },
+    {
+      "name": "hood",
+      "color": "#000000FF",
+      "metallic": 0.78,
+      "gloss": 0.79
+    },
+    {
+      "name": "body",
+      "color": "#000000FF",
+      "metallic": 0.78,
+      "gloss": 0.79
+    },
+    {
+      "name": "back#w",
+      "color": "#00000082",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid#w",
+      "color": "#8A8A8A08",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#w",
+      "color": "#8A8A8A08",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000FF",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#l",
+      "color": "#8A8A8A08",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "AWD",
+  "upgrades": []
+}

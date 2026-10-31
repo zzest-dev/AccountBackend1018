@@ -1,0 +1,160 @@
+{
+  "v": 2,
+  "carName": "Lambo_Reventon",
+  "engine": "Engine_500",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_28",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#858585FF",
+          "metallic": 1.0,
+          "gloss": 0.94
+        },
+        {
+          "name": "ray",
+          "color": "#414141FF",
+          "metallic": 0.74,
+          "gloss": 0.85
+        },
+        {
+          "name": "ray 2",
+          "color": "#1E1E1EFF",
+          "metallic": 0.85,
+          "gloss": 0.87
+        }
+      ],
+      "rad": 34.0,
+      "width": 33.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_28",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#858585FF",
+          "metallic": 1.0,
+          "gloss": 0.94
+        },
+        {
+          "name": "ray",
+          "color": "#414141FF",
+          "metallic": 0.74,
+          "gloss": 0.85
+        },
+        {
+          "name": "ray 2",
+          "color": "#1E1E1EFF",
+          "metallic": 0.85,
+          "gloss": 0.87
+        }
+      ],
+      "rad": 37.0,
+      "width": 38.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#b",
+      "color": "#FFE900FF",
+      "metallic": 0.78,
+      "gloss": 0.92
+    },
+    {
+      "name": "front#b",
+      "color": "#FFE900FF",
+      "metallic": 0.78,
+      "gloss": 0.92
+    },
+    {
+      "name": "doors",
+      "color": "#FFE900FF",
+      "metallic": 0.78,
+      "gloss": 0.92
+    },
+    {
+      "name": "trunk",
+      "color": "#FFE900FF",
+      "metallic": 0.78,
+      "gloss": 0.92
+    },
+    {
+      "name": "hood",
+      "color": "#FFE900FF",
+      "metallic": 0.78,
+      "gloss": 0.92
+    },
+    {
+      "name": "body",
+      "color": "#FFE900FF",
+      "metallic": 0.78,
+      "gloss": 0.92
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "mid",
+      "color": "#98989808",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "back",
+      "color": "#00000038",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#96969608",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000D9",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#l",
+      "color": "#FFFFFF08",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "AWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    }
+  ]
+}

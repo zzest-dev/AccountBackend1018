@@ -1,0 +1,166 @@
+{
+  "v": 2,
+  "carName": "Supra_2020",
+  "engine": "Engine_330",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_27",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#980000FF",
+          "metallic": 0.66,
+          "gloss": 0.68
+        },
+        {
+          "name": "ray",
+          "color": "#313131FF",
+          "metallic": 0.75,
+          "gloss": 0.79
+        },
+        {
+          "name": "ray 2",
+          "color": "#2E2E2EFF",
+          "metallic": 0.86,
+          "gloss": 0.74
+        }
+      ],
+      "rad": 32.0,
+      "width": 32.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_27",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#980000FF",
+          "metallic": 0.66,
+          "gloss": 0.68
+        },
+        {
+          "name": "ray",
+          "color": "#313131FF",
+          "metallic": 0.75,
+          "gloss": 0.79
+        },
+        {
+          "name": "ray 2",
+          "color": "#2E2E2EFF",
+          "metallic": 0.86,
+          "gloss": 0.74
+        }
+      ],
+      "rad": 32.0,
+      "width": 40.0,
+      "tire": "Tire_2",
+      "tireSize": 9.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#b",
+      "color": "#FF0000FF",
+      "metallic": 0.68,
+      "gloss": 0.96
+    },
+    {
+      "name": "front#b",
+      "color": "#FF0000FF",
+      "metallic": 0.68,
+      "gloss": 0.96
+    },
+    {
+      "name": "doors",
+      "color": "#FF0000FF",
+      "metallic": 0.68,
+      "gloss": 0.96
+    },
+    {
+      "name": "trunk",
+      "color": "#FF0000FF",
+      "metallic": 0.68,
+      "gloss": 0.96
+    },
+    {
+      "name": "hood",
+      "color": "#FF0000FF",
+      "metallic": 0.68,
+      "gloss": 0.96
+    },
+    {
+      "name": "body",
+      "color": "#FF0000FF",
+      "metallic": 0.68,
+      "gloss": 0.96
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back",
+      "color": "#5353538C",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#5353530F",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#050101EB",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front#l",
+      "color": "#A2A2A212",
+      "metallic": 0.82,
+      "gloss": 1.0
+    },
+    {
+      "name": "back#l",
+      "color": "#A2A2A21A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#53535347",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "BWD",
+  "upgrades": [
+    {
+      "key": "Spoiler",
+      "use": "No"
+    }
+  ]
+}

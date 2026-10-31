@@ -1,0 +1,167 @@
+{
+  "v": 2,
+  "carName": "LandCruiser",
+  "engine": "Engine_200",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_21",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#969696FF",
+          "metallic": 0.8,
+          "gloss": 0.77
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.88,
+          "gloss": 0.83
+        },
+        {
+          "name": "center",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 36.0,
+      "width": 34.0,
+      "tire": "Tire_3",
+      "tireSize": 13.3,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_21",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#969696FF",
+          "metallic": 0.8,
+          "gloss": 0.77
+        },
+        {
+          "name": "ray",
+          "color": "#FFFFFFFF",
+          "metallic": 0.88,
+          "gloss": 0.83
+        },
+        {
+          "name": "center",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 36.0,
+      "width": 34.0,
+      "tire": "Tire_3",
+      "tireSize": 13.3,
+      "susp_height": 14.0,
+      "susp_stiff": 0.11,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "body",
+      "color": "#080810FF",
+      "metallic": 0.67,
+      "gloss": 0.84
+    },
+    {
+      "name": "back#b",
+      "color": "#080810FF",
+      "metallic": 0.67,
+      "gloss": 0.84
+    },
+    {
+      "name": "front#b",
+      "color": "#080810FF",
+      "metallic": 0.67,
+      "gloss": 0.84
+    },
+    {
+      "name": "doors",
+      "color": "#080810FF",
+      "metallic": 0.67,
+      "gloss": 0.84
+    },
+    {
+      "name": "trunk",
+      "color": "#080810FF",
+      "metallic": 0.67,
+      "gloss": 0.84
+    },
+    {
+      "name": "hood",
+      "color": "#080810FF",
+      "metallic": 0.67,
+      "gloss": 0.84
+    },
+    {
+      "name": "back",
+      "color": "#6565654A",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#FFFFFF05",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#FFFFFF05",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#000000E0",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "greed",
+      "color": "#000000FF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": null
+  },
+  "WD": "AWD",
+  "upgrades": []
+}

@@ -1,0 +1,137 @@
+{
+  "v": 2,
+  "carName": "Vaz2104",
+  "engine": "Engine_70",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_1",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#D3D3D3FF",
+          "metallic": 0.85,
+          "gloss": 0.85
+        },
+        {
+          "name": "ray",
+          "color": "#B8B8B8FF",
+          "metallic": 0.64,
+          "gloss": 0.85
+        },
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 28.0,
+      "width": 28.0,
+      "tire": "Tire_5",
+      "tireSize": 12.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_1",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "disc",
+          "color": "#D3D3D3FF",
+          "metallic": 0.85,
+          "gloss": 0.85
+        },
+        {
+          "name": "ray",
+          "color": "#B8B8B8FF",
+          "metallic": 0.64,
+          "gloss": 0.85
+        },
+        {
+          "name": "support",
+          "color": "#FFFFFFFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        }
+      ],
+      "rad": 28.0,
+      "width": 28.0,
+      "tire": "Tire_5",
+      "tireSize": 12.0,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "body",
+      "color": "#FFC19EFF",
+      "metallic": 0.75,
+      "gloss": 0.69
+    },
+    {
+      "name": "doors",
+      "color": "#FFC19EFF",
+      "metallic": 0.75,
+      "gloss": 0.69
+    },
+    {
+      "name": "trunk",
+      "color": "#FFC19EFF",
+      "metallic": 0.75,
+      "gloss": 0.69
+    },
+    {
+      "name": "hood",
+      "color": "#FFC19EFF",
+      "metallic": 0.75,
+      "gloss": 0.69
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back",
+      "color": "#3A3A3A1C",
+      "metallic": 0.83,
+      "gloss": 0.85
+    },
+    {
+      "name": "mid",
+      "color": "#3A3A3A1C",
+      "metallic": 0.83,
+      "gloss": 0.85
+    },
+    {
+      "name": "front",
+      "color": "#21212105",
+      "metallic": 0.83,
+      "gloss": 0.85
+    },
+    {
+      "name": "front up",
+      "color": "#ABABAB1C",
+      "metallic": 0.83,
+      "gloss": 0.85
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": ""
+  },
+  "WD": "BWD",
+  "upgrades": []
+}

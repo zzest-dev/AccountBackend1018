@@ -1,0 +1,148 @@
+{
+  "v": 2,
+  "carName": "240SX",
+  "engine": "Engine_300",
+  "items": [],
+  "wheels": [
+    {
+      "model": "Wheel_14",
+      "idx": 0,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#777777FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#5C5C5CFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#606060FF",
+          "metallic": 0.5,
+          "gloss": 0.59
+        }
+      ],
+      "rad": 32.0,
+      "width": 31.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    },
+    {
+      "model": "Wheel_14",
+      "idx": 1,
+      "colors": [
+        {
+          "name": "support",
+          "color": "#777777FF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "disc",
+          "color": "#5C5C5CFF",
+          "metallic": 0.5,
+          "gloss": 0.5
+        },
+        {
+          "name": "ray",
+          "color": "#606060FF",
+          "metallic": 0.5,
+          "gloss": 0.59
+        }
+      ],
+      "rad": 32.0,
+      "width": 35.0,
+      "tire": "Tire_0",
+      "tireSize": 6.6,
+      "susp_height": 14.0,
+      "susp_stiff": 0.115,
+      "susp_z_ange": 0.0,
+      "susp_x_offset": 0.0,
+      "susp_y_offset": 0.0
+    }
+  ],
+  "colors": [
+    {
+      "name": "body",
+      "color": "#24FFB2FF",
+      "metallic": 0.92,
+      "gloss": 0.91
+    },
+    {
+      "name": "hood",
+      "color": "#24FFB2FF",
+      "metallic": 0.92,
+      "gloss": 0.91
+    },
+    {
+      "name": "trunk",
+      "color": "#24FFB2FF",
+      "metallic": 0.92,
+      "gloss": 0.91
+    },
+    {
+      "name": "doors",
+      "color": "#24FFB2FF",
+      "metallic": 0.92,
+      "gloss": 0.91
+    },
+    {
+      "name": "front#b",
+      "color": "#24FFB2FF",
+      "metallic": 0.92,
+      "gloss": 0.91
+    },
+    {
+      "name": "back#n",
+      "color": "#FFFFFFFF",
+      "metallic": 0.0,
+      "gloss": 0.0
+    },
+    {
+      "name": "back",
+      "color": "#1F1F1F61",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front",
+      "color": "#2929290D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "front up",
+      "color": "#363636DB",
+      "metallic": 1.0,
+      "gloss": 1.0
+    },
+    {
+      "name": "mid",
+      "color": "#CDCDCD0D",
+      "metallic": 1.0,
+      "gloss": 1.0
+    }
+  ],
+  "number": {
+    "number": "",
+    "country": "",
+    "flag": ""
+  },
+  "WD": "BWD",
+  "upgrades": [
+    {
+      "key": "Details",
+      "use": "No"
+    }
+  ]
+}

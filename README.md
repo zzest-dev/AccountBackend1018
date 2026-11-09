@@ -29,7 +29,7 @@ cd AccountBackend1018
 git submodule update --init --recursive
 ```
 
-Оба репозитория закрытые, поэтому доступ нужен к каждому. ZIP исходников, автоматически создаваемый GitHub, не содержит содержимое сабмодуля. Подробности: [разработка и сабмодуль](docs/DEVELOPMENT.md).
+ZIP исходников, автоматически создаваемый GitHub, не содержит содержимое сабмодуля. Подробности: [разработка и сабмодуль](docs/DEVELOPMENT.md).
 
 ## Быстрый запуск сервера
 
@@ -39,7 +39,7 @@ git submodule update --init --recursive
 dotnet run --project src/AccountBackend -c Release
 ```
 
-В готовой самостоятельной Windows-сборке достаточно запустить `AccountBackend.exe`; устанавливать .NET, Python или Unity для неё не требуется. Настройки `server.json` и папка `data` должны находиться рядом с программой. Остановка: Ctrl+C. Одновременно два сервера на одном IP и порту работать не могут.
+Скачайте Windows x64 сборку из [Releases](https://github.com/zzest-dev/AccountBackend1018/releases), распакуйте архив и запустите `AccountBackend.exe`. Устанавливать .NET, Python или Unity для неё не требуется. Настройки `server.json` и папка `data` должны находиться рядом с программой. Остановка: Ctrl+C. Одновременно два сервера на одном IP и порту работать не могут.
 
 ```json
 {
@@ -63,7 +63,7 @@ dotnet AccountBackend.dll --config server.local.json --host 127.0.0.1 --port 101
 
 ## Подготовить APK и подключить телефон
 
-Патчер использует Python 3.11+, JDK и Android SDK Build Tools. Unity для готового патчера не нужен. Оригинальные APK/OBB в репозитории не распространяются.
+Готовый Android-клиент и OBB доступны в [Releases патчера](https://github.com/zzest-dev/APKPatcher1018/releases). Для самостоятельной сборки патчер использует Python 3.11+, JDK и Android SDK Build Tools.
 
 ```sh
 python patcher/patch.py original-10.18.apk --host 192.168.1.10 --port 10118 --android-sdk /path/to/Android/SDK --output patched-10.18.apk
